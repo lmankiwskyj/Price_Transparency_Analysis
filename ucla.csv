@@ -1,0 +1,749 @@
+Description,"Code 
+Type","CPT/HCPCS 
+DRG Code","Code
+CDM/ERX/SUP",NDC,"Revenue
+Code",Quantity,IP XR Aetna,IP XR Anthem,"IP XR
+Blue Shield","IP XR
+Cigna","IP XR
+Health Net","IP XR
+Kaiser","IP XR
+United",Min,Max
+Heart transplant or implant of heart assist system,DRG,MS-DRG V37 (FY2020) 001,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,1129072.495,Variable,Variable
+Heart transplant or implant of heart assist system,DRG,MS-DRG V37 (FY2020) 002,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,545434.3683,Variable,Variable
+"ECMO or trach w MV >96 hrs or PDX exc face, mouth & neck w maj O.R.",DRG,MS-DRG V37 (FY2020) 003,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,709253.4825,Variable,Variable
+"Trach w MV >96 hrs or PDX exc face, mouth & neck w/o maj O.R.",DRG,MS-DRG V37 (FY2020) 004,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,439008.3665,Variable,Variable
+Liver transplant,DRG,MS-DRG V37 (FY2020) 005,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,680656.4782,Variable,Variable
+Liver transplant,DRG,MS-DRG V37 (FY2020) 006,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,370854.1394,Variable,Variable
+Lung transplant,DRG,MS-DRG V37 (FY2020) 007,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,441329.6909,Variable,Variable
+Simultaneous pancreas/kidney transplant,DRG,MS-DRG V37 (FY2020) 008,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,374770.9801,Variable,Variable
+Pancreas transplant,DRG,MS-DRG V37 (FY2020) 010,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,327654.2362,Variable,Variable
+"Tracheostomy for face,mouth & neck diagnoses",DRG,MS-DRG V37 (FY2020) 011,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,199966.1461,Variable,Variable
+"Tracheostomy for face,mouth & neck diagnoses",DRG,MS-DRG V37 (FY2020) 012,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,179384.3798,Variable,Variable
+"Tracheostomy for face,mouth & neck diagnoses",DRG,MS-DRG V37 (FY2020) 013,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,117701.5419,Variable,Variable
+Allogeneic bone marrow transplant,DRG,MS-DRG V37 (FY2020) 014,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,443314.8117,Variable,Variable
+Autologous bone marrow transplant,DRG,MS-DRG V37 (FY2020) 016,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,503173.8066,Variable,Variable
+Intracranial vascular procedures w PDX hemorrhage,DRG,MS-DRG V37 (FY2020) 020,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,313555.488,Variable,Variable
+Intracranial vascular procedures w PDX hemorrhage,DRG,MS-DRG V37 (FY2020) 021,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,266288.623,Variable,Variable
+Intracranial vascular procedures w PDX hemorrhage,DRG,MS-DRG V37 (FY2020) 022,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,111347.1361,Variable,Variable
+Cranio w major dev impl/acute complex CNS PDX,DRG,MS-DRG V37 (FY2020) 023,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,191628.2674,Variable,Variable
+Cranio w major dev impl/acute complex CNS PDX,DRG,MS-DRG V37 (FY2020) 024,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,70716.11037,Variable,Variable
+Craniotomy & endovascular intracranial procedures,DRG,MS-DRG V37 (FY2020) 025,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,130544.018,Variable,Variable
+Craniotomy & endovascular intracranial procedures,DRG,MS-DRG V37 (FY2020) 026,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,97283.60666,Variable,Variable
+Craniotomy & endovascular intracranial procedures,DRG,MS-DRG V37 (FY2020) 027,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,86703.36747,Variable,Variable
+Spinal procedures,DRG,MS-DRG V37 (FY2020) 028,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,171406.3645,Variable,Variable
+Spinal procedures,DRG,MS-DRG V37 (FY2020) 029,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,68449.69548,Variable,Variable
+Spinal procedures,DRG,MS-DRG V37 (FY2020) 030,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,78093.38629,Variable,Variable
+Ventricular shunt procedures,DRG,MS-DRG V37 (FY2020) 031,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,76216.08061,Variable,Variable
+Ventricular shunt procedures,DRG,MS-DRG V37 (FY2020) 032,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40390.3818,Variable,Variable
+Ventricular shunt procedures,DRG,MS-DRG V37 (FY2020) 033,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39202.94573,Variable,Variable
+Carotid artery stent procedure,DRG,MS-DRG V37 (FY2020) 034,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,89818.12893,Variable,Variable
+Carotid artery stent procedure,DRG,MS-DRG V37 (FY2020) 035,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,56931.56169,Variable,Variable
+Carotid artery stent procedure,DRG,MS-DRG V37 (FY2020) 036,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,56931.56169,Variable,Variable
+Extracranial procedures,DRG,MS-DRG V37 (FY2020) 037,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,296836.9528,Variable,Variable
+Extracranial procedures,DRG,MS-DRG V37 (FY2020) 038,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,75957.77313,Variable,Variable
+Extracranial procedures,DRG,MS-DRG V37 (FY2020) 039,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34174.46827,Variable,Variable
+Periph/cranial nerve & other nerv syst proc,DRG,MS-DRG V37 (FY2020) 040,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,105903.6382,Variable,Variable
+Periph/cranial nerve & other nerv syst proc,DRG,MS-DRG V37 (FY2020) 041,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66228.85927,Variable,Variable
+Periph/cranial nerve & other nerv syst proc,DRG,MS-DRG V37 (FY2020) 042,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27675.34184,Variable,Variable
+Spinal disorders & injuries,DRG,MS-DRG V37 (FY2020) 052,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25449.88664,Variable,Variable
+Spinal disorders & injuries,DRG,MS-DRG V37 (FY2020) 053,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17688.7472,Variable,Variable
+Nervous system neoplasms,DRG,MS-DRG V37 (FY2020) 054,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42090.14654,Variable,Variable
+Nervous system neoplasms,DRG,MS-DRG V37 (FY2020) 055,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39978.10802,Variable,Variable
+Degenerative nervous system disorders,DRG,MS-DRG V37 (FY2020) 056,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,70395.26471,Variable,Variable
+Degenerative nervous system disorders,DRG,MS-DRG V37 (FY2020) 057,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,53946.78956,Variable,Variable
+Multiple sclerosis & cerebellar ataxia,DRG,MS-DRG V37 (FY2020) 058,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,158102.0128,Variable,Variable
+Multiple sclerosis & cerebellar ataxia,DRG,MS-DRG V37 (FY2020) 059,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,58889.03042,Variable,Variable
+Multiple sclerosis & cerebellar ataxia,DRG,MS-DRG V37 (FY2020) 060,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51767.4314,Variable,Variable
+Acute ischemic stroke w use of thrombolytic agent,DRG,MS-DRG V37 (FY2020) 061,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,135124.5773,Variable,Variable
+Acute ischemic stroke w use of thrombolytic agent,DRG,MS-DRG V37 (FY2020) 062,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83525.27093,Variable,Variable
+Acute ischemic stroke w use of thrombolytic agent,DRG,MS-DRG V37 (FY2020) 063,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,118537.1224,Variable,Variable
+Intracranial hemorrhage or cerebral infarction,DRG,MS-DRG V37 (FY2020) 064,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61290.5488,Variable,Variable
+Intracranial hemorrhage or cerebral infarction,DRG,MS-DRG V37 (FY2020) 065,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51007.00036,Variable,Variable
+Intracranial hemorrhage or cerebral infarction,DRG,MS-DRG V37 (FY2020) 066,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38717.66561,Variable,Variable
+Nonspecific CVA & precerebral occlusion w/o infarct,DRG,MS-DRG V37 (FY2020) 067,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23767.32125,Variable,Variable
+Transient ischemia,DRG,MS-DRG V37 (FY2020) 069,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40412.76494,Variable,Variable
+Nonspecific cerebrovascular disorders,DRG,MS-DRG V37 (FY2020) 070,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31080.42649,Variable,Variable
+Nonspecific cerebrovascular disorders,DRG,MS-DRG V37 (FY2020) 071,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37241.15975,Variable,Variable
+Nonspecific cerebrovascular disorders,DRG,MS-DRG V37 (FY2020) 072,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,12141.6122,Variable,Variable
+Cranial & peripheral nerve disorders,DRG,MS-DRG V37 (FY2020) 073,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,75846.32938,Variable,Variable
+Cranial & peripheral nerve disorders,DRG,MS-DRG V37 (FY2020) 074,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36446.6859,Variable,Variable
+Viral meningitis,DRG,MS-DRG V37 (FY2020) 075,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24077.544,Variable,Variable
+Viral meningitis,DRG,MS-DRG V37 (FY2020) 076,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15880.20024,Variable,Variable
+Hypertensive encephalopathy,DRG,MS-DRG V37 (FY2020) 077,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59894.67021,Variable,Variable
+Hypertensive encephalopathy,DRG,MS-DRG V37 (FY2020) 078,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,87368.87327,Variable,Variable
+Hypertensive encephalopathy,DRG,MS-DRG V37 (FY2020) 079,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20510.787,Variable,Variable
+Nontraumatic stupor & coma,DRG,MS-DRG V37 (FY2020) 080,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,489108.8071,Variable,Variable
+Nontraumatic stupor & coma,DRG,MS-DRG V37 (FY2020) 081,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23286.00248,Variable,Variable
+"Traumatic stupor & coma, coma >1 hr",DRG,MS-DRG V37 (FY2020) 082,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74023.08986,Variable,Variable
+"Traumatic stupor & coma, coma >1 hr",DRG,MS-DRG V37 (FY2020) 083,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50919.36336,Variable,Variable
+"Traumatic stupor & coma, coma >1 hr",DRG,MS-DRG V37 (FY2020) 084,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,64445.3415,Variable,Variable
+"Traumatic stupor & coma, coma <1 hr",DRG,MS-DRG V37 (FY2020) 085,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,118502.1203,Variable,Variable
+"Traumatic stupor & coma, coma <1 hr",DRG,MS-DRG V37 (FY2020) 086,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,67497.78143,Variable,Variable
+"Traumatic stupor & coma, coma <1 hr",DRG,MS-DRG V37 (FY2020) 087,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26310.4422,Variable,Variable
+Concussion,DRG,MS-DRG V37 (FY2020) 088,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42774.03545,Variable,Variable
+Concussion,DRG,MS-DRG V37 (FY2020) 089,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,53538.46165,Variable,Variable
+Concussion,DRG,MS-DRG V37 (FY2020) 090,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34259.46695,Variable,Variable
+Other disorders of nervous system,DRG,MS-DRG V37 (FY2020) 091,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61602.63617,Variable,Variable
+Other disorders of nervous system,DRG,MS-DRG V37 (FY2020) 092,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28350.15525,Variable,Variable
+Other disorders of nervous system,DRG,MS-DRG V37 (FY2020) 093,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36645.96007,Variable,Variable
+Bacterial & tuberculous infections of nervous system,DRG,MS-DRG V37 (FY2020) 094,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,111620.0046,Variable,Variable
+Bacterial & tuberculous infections of nervous system,DRG,MS-DRG V37 (FY2020) 095,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,130531.0895,Variable,Variable
+Bacterial & tuberculous infections of nervous system,DRG,MS-DRG V37 (FY2020) 096,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95971.49656,Variable,Variable
+Non-bacterial infect of nervous sys exc viral meningitis,DRG,MS-DRG V37 (FY2020) 097,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,284707.6734,Variable,Variable
+Non-bacterial infect of nervous sys exc viral meningitis,DRG,MS-DRG V37 (FY2020) 098,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61054.9881,Variable,Variable
+Non-bacterial infect of nervous sys exc viral meningitis,DRG,MS-DRG V37 (FY2020) 099,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35629.96044,Variable,Variable
+Seizures,DRG,MS-DRG V37 (FY2020) 100,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44759.24907,Variable,Variable
+Seizures,DRG,MS-DRG V37 (FY2020) 101,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27525.36784,Variable,Variable
+Headaches,DRG,MS-DRG V37 (FY2020) 102,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14148.07163,Variable,Variable
+Headaches,DRG,MS-DRG V37 (FY2020) 103,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39896.17319,Variable,Variable
+Orbital procedures,DRG,MS-DRG V37 (FY2020) 113,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74850.80959,Variable,Variable
+Orbital procedures,DRG,MS-DRG V37 (FY2020) 114,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24003.03669,Variable,Variable
+Extraocular procedures except orbit,DRG,MS-DRG V37 (FY2020) 115,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24946.94295,Variable,Variable
+Intraocular procedures,DRG,MS-DRG V37 (FY2020) 116,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48456.81553,Variable,Variable
+Intraocular procedures,DRG,MS-DRG V37 (FY2020) 117,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19862.37224,Variable,Variable
+Acute major eye infections,DRG,MS-DRG V37 (FY2020) 121,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34748.12039,Variable,Variable
+Acute major eye infections,DRG,MS-DRG V37 (FY2020) 122,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18204.33314,Variable,Variable
+Neurological eye disorders,DRG,MS-DRG V37 (FY2020) 123,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38841.00113,Variable,Variable
+Other disorders of the eye,DRG,MS-DRG V37 (FY2020) 124,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32099.04896,Variable,Variable
+Other disorders of the eye,DRG,MS-DRG V37 (FY2020) 125,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28225.86034,Variable,Variable
+Major head & neck procedures,DRG,MS-DRG V37 (FY2020) 129,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,91162.67253,Variable,Variable
+Major head & neck procedures,DRG,MS-DRG V37 (FY2020) 130,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,58094.50242,Variable,Variable
+Cranial/facial procedures,DRG,MS-DRG V37 (FY2020) 131,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,71380.14613,Variable,Variable
+Cranial/facial procedures,DRG,MS-DRG V37 (FY2020) 132,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48057.8107,Variable,Variable
+"Other ear, nose, mouth & throat O.R. procedures",DRG,MS-DRG V37 (FY2020) 133,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50132.95921,Variable,Variable
+"Other ear, nose, mouth & throat O.R. procedures",DRG,MS-DRG V37 (FY2020) 134,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41266.56611,Variable,Variable
+Sinus & mastoid procedures,DRG,MS-DRG V37 (FY2020) 135,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54810.90415,Variable,Variable
+Sinus & mastoid procedures,DRG,MS-DRG V37 (FY2020) 136,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31289.58081,Variable,Variable
+Mouth procedures,DRG,MS-DRG V37 (FY2020) 137,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41511.72069,Variable,Variable
+Mouth procedures,DRG,MS-DRG V37 (FY2020) 138,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29158.82649,Variable,Variable
+Salivary gland procedures,DRG,MS-DRG V37 (FY2020) 139,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33438.06061,Variable,Variable
+"Ear, nose, mouth & throat malignancy",DRG,MS-DRG V37 (FY2020) 146,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,76984.44208,Variable,Variable
+"Ear, nose, mouth & throat malignancy",DRG,MS-DRG V37 (FY2020) 147,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,99993.08084,Variable,Variable
+Dysequilibrium,DRG,MS-DRG V37 (FY2020) 149,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37222.92364,Variable,Variable
+Epistaxis,DRG,MS-DRG V37 (FY2020) 150,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,116465.8656,Variable,Variable
+Epistaxis,DRG,MS-DRG V37 (FY2020) 151,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18262.9796,Variable,Variable
+Otitis media & URI,DRG,MS-DRG V37 (FY2020) 152,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25331.16237,Variable,Variable
+Otitis media & URI,DRG,MS-DRG V37 (FY2020) 153,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19687.67078,Variable,Variable
+"Other ear, nose, mouth & throat diagnoses",DRG,MS-DRG V37 (FY2020) 154,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69220.29295,Variable,Variable
+"Other ear, nose, mouth & throat diagnoses",DRG,MS-DRG V37 (FY2020) 155,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18848.68598,Variable,Variable
+"Other ear, nose, mouth & throat diagnoses",DRG,MS-DRG V37 (FY2020) 156,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20178.01089,Variable,Variable
+Dental & oral diseases,DRG,MS-DRG V37 (FY2020) 157,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,53453.81114,Variable,Variable
+Dental & oral diseases,DRG,MS-DRG V37 (FY2020) 158,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33276.21804,Variable,Variable
+Dental & oral diseases,DRG,MS-DRG V37 (FY2020) 159,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24882.95023,Variable,Variable
+Major chest procedures,DRG,MS-DRG V37 (FY2020) 163,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,171451.0612,Variable,Variable
+Major chest procedures,DRG,MS-DRG V37 (FY2020) 164,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,90413.02686,Variable,Variable
+Major chest procedures,DRG,MS-DRG V37 (FY2020) 165,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,71135.33971,Variable,Variable
+Other resp system O.R. procedures,DRG,MS-DRG V37 (FY2020) 166,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,121755.552,Variable,Variable
+Other resp system O.R. procedures,DRG,MS-DRG V37 (FY2020) 167,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54889.34959,Variable,Variable
+Other resp system O.R. procedures,DRG,MS-DRG V37 (FY2020) 168,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49320.14093,Variable,Variable
+Pulmonary embolism,DRG,MS-DRG V37 (FY2020) 175,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49386.69461,Variable,Variable
+Pulmonary embolism,DRG,MS-DRG V37 (FY2020) 176,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32175.13462,Variable,Variable
+Respiratory infections & inflammations,DRG,MS-DRG V37 (FY2020) 177,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55299.12432,Variable,Variable
+Respiratory infections & inflammations,DRG,MS-DRG V37 (FY2020) 178,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24800.9535,Variable,Variable
+Respiratory infections & inflammations,DRG,MS-DRG V37 (FY2020) 179,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25824.78297,Variable,Variable
+Respiratory neoplasms,DRG,MS-DRG V37 (FY2020) 180,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,85567.04976,Variable,Variable
+Respiratory neoplasms,DRG,MS-DRG V37 (FY2020) 181,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49961.07401,Variable,Variable
+Respiratory neoplasms,DRG,MS-DRG V37 (FY2020) 182,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27268.50717,Variable,Variable
+Major chest trauma,DRG,MS-DRG V37 (FY2020) 183,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,72359.82054,Variable,Variable
+Major chest trauma,DRG,MS-DRG V37 (FY2020) 184,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35659.84847,Variable,Variable
+Major chest trauma,DRG,MS-DRG V37 (FY2020) 185,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32794.70585,Variable,Variable
+Pleural effusion,DRG,MS-DRG V37 (FY2020) 186,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,68543.8393,Variable,Variable
+Pleural effusion,DRG,MS-DRG V37 (FY2020) 187,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47737.2281,Variable,Variable
+Pleural effusion,DRG,MS-DRG V37 (FY2020) 188,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38222.07982,Variable,Variable
+Pulmonary edema & respiratory failure,DRG,MS-DRG V37 (FY2020) 189,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48986.0418,Variable,Variable
+Chronic obstructive pulmonary disease,DRG,MS-DRG V37 (FY2020) 190,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55170.2878,Variable,Variable
+Chronic obstructive pulmonary disease,DRG,MS-DRG V37 (FY2020) 191,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22174.21105,Variable,Variable
+Chronic obstructive pulmonary disease,DRG,MS-DRG V37 (FY2020) 192,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34941.28234,Variable,Variable
+Simple pneumonia & pleurisy,DRG,MS-DRG V37 (FY2020) 193,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48929.96402,Variable,Variable
+Simple pneumonia & pleurisy,DRG,MS-DRG V37 (FY2020) 194,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20707.77102,Variable,Variable
+Simple pneumonia & pleurisy,DRG,MS-DRG V37 (FY2020) 195,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13765.1675,Variable,Variable
+Interstitial lung disease,DRG,MS-DRG V37 (FY2020) 196,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,75602.64483,Variable,Variable
+Interstitial lung disease,DRG,MS-DRG V37 (FY2020) 197,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24398.26586,Variable,Variable
+Interstitial lung disease,DRG,MS-DRG V37 (FY2020) 198,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,10896.86817,Variable,Variable
+Pneumothorax,DRG,MS-DRG V37 (FY2020) 199,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,92380.12043,Variable,Variable
+Pneumothorax,DRG,MS-DRG V37 (FY2020) 200,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44032.48945,Variable,Variable
+Pneumothorax,DRG,MS-DRG V37 (FY2020) 201,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,10355.2008,Variable,Variable
+Bronchitis & asthma,DRG,MS-DRG V37 (FY2020) 202,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44991.4287,Variable,Variable
+Bronchitis & asthma,DRG,MS-DRG V37 (FY2020) 203,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42618.43664,Variable,Variable
+Respiratory signs & symptoms,DRG,MS-DRG V37 (FY2020) 204,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18233.04515,Variable,Variable
+Other respiratory system diagnoses,DRG,MS-DRG V37 (FY2020) 205,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54310.79994,Variable,Variable
+Other respiratory system diagnoses,DRG,MS-DRG V37 (FY2020) 206,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41293.35934,Variable,Variable
+Respiratory system diagnosis w ventilator support >96 hours,DRG,MS-DRG V37 (FY2020) 207,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,296160.5456,Variable,Variable
+Respiratory system diagnosis w ventilator support <=96 hours,DRG,MS-DRG V37 (FY2020) 208,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,109429.0332,Variable,Variable
+Other heart assist system implant,DRG,MS-DRG V37 (FY2020) 215,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,364440.3443,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w card cath,DRG,MS-DRG V37 (FY2020) 216,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,401828.1976,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w card cath,DRG,MS-DRG V37 (FY2020) 217,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,256038.1193,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w card cath,DRG,MS-DRG V37 (FY2020) 218,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,187549.499,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w/o card cath,DRG,MS-DRG V37 (FY2020) 219,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,244445.0063,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w/o card cath,DRG,MS-DRG V37 (FY2020) 220,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,205728.4702,Variable,Variable
+Cardiac valve & oth maj cardiothoracic proc w/o card cath,DRG,MS-DRG V37 (FY2020) 221,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,244525.2235,Variable,Variable
+Cardiac defib implant w cardiac cath w AMI/HF/shock,DRG,MS-DRG V37 (FY2020) 222,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,506214.2774,Variable,Variable
+Cardiac defib implant w cardiac cath w AMI/HF/shock,DRG,MS-DRG V37 (FY2020) 223,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,145614.4251,Variable,Variable
+Cardiac defib implant w cardiac cath w/o AMI/HF/shock,DRG,MS-DRG V37 (FY2020) 224,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,235486.2488,Variable,Variable
+Cardiac defib implant w cardiac cath w/o AMI/HF/shock,DRG,MS-DRG V37 (FY2020) 225,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,172879.7215,Variable,Variable
+Cardiac defibrillator implant w/o cardiac cath,DRG,MS-DRG V37 (FY2020) 226,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,262387.8365,Variable,Variable
+Cardiac defibrillator implant w/o cardiac cath,DRG,MS-DRG V37 (FY2020) 227,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,101814.4635,Variable,Variable
+Other cardiothoracic procedures,DRG,MS-DRG V37 (FY2020) 228,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,223575.8878,Variable,Variable
+Other cardiothoracic procedures,DRG,MS-DRG V37 (FY2020) 229,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,102697.967,Variable,Variable
+Coronary bypass w PTCA,DRG,MS-DRG V37 (FY2020) 231,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,294995.0207,Variable,Variable
+Coronary bypass w PTCA,DRG,MS-DRG V37 (FY2020) 232,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,377636.9738,Variable,Variable
+Coronary bypass w cardiac cath,DRG,MS-DRG V37 (FY2020) 233,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,280466.6833,Variable,Variable
+Coronary bypass w cardiac cath,DRG,MS-DRG V37 (FY2020) 234,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,228342.994,Variable,Variable
+Coronary bypass w/o cardiac cath,DRG,MS-DRG V37 (FY2020) 235,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,191106.6931,Variable,Variable
+Coronary bypass w/o cardiac cath,DRG,MS-DRG V37 (FY2020) 236,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,164563.6766,Variable,Variable
+Amputation for circ sys disorders exc upper limb & toe,DRG,MS-DRG V37 (FY2020) 239,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,154985.3016,Variable,Variable
+Amputation for circ sys disorders exc upper limb & toe,DRG,MS-DRG V37 (FY2020) 240,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66137.13713,Variable,Variable
+Permanent cardiac pacemaker implant,DRG,MS-DRG V37 (FY2020) 242,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,97506.89648,Variable,Variable
+Permanent cardiac pacemaker implant,DRG,MS-DRG V37 (FY2020) 243,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,72541.79478,Variable,Variable
+Permanent cardiac pacemaker implant,DRG,MS-DRG V37 (FY2020) 244,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57119.93443,Variable,Variable
+AICD generator procedures,DRG,MS-DRG V37 (FY2020) 245,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,375583.4038,Variable,Variable
+Perc cardiovasc proc w drug-eluting stent,DRG,MS-DRG V37 (FY2020) 246,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,81861.50645,Variable,Variable
+Perc cardiovasc proc w drug-eluting stent,DRG,MS-DRG V37 (FY2020) 247,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57369.05809,Variable,Variable
+Perc cardiovasc proc w non-drug-eluting stent,DRG,MS-DRG V37 (FY2020) 248,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,178984.052,Variable,Variable
+Perc cardiovasc proc w non-drug-eluting stent,DRG,MS-DRG V37 (FY2020) 249,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43523.68112,Variable,Variable
+Perc cardiovasc proc w/o coronary artery stent,DRG,MS-DRG V37 (FY2020) 250,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,85477.71836,Variable,Variable
+Perc cardiovasc proc w/o coronary artery stent,DRG,MS-DRG V37 (FY2020) 251,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43698.10404,Variable,Variable
+Other vascular procedures,DRG,MS-DRG V37 (FY2020) 252,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,82889.66091,Variable,Variable
+Other vascular procedures,DRG,MS-DRG V37 (FY2020) 253,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61192.62159,Variable,Variable
+Other vascular procedures,DRG,MS-DRG V37 (FY2020) 254,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50613.3418,Variable,Variable
+Upper limb & toe amputation for circ system disorders,DRG,MS-DRG V37 (FY2020) 255,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,106283.0375,Variable,Variable
+Upper limb & toe amputation for circ system disorders,DRG,MS-DRG V37 (FY2020) 256,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74787.82267,Variable,Variable
+Upper limb & toe amputation for circ system disorders,DRG,MS-DRG V37 (FY2020) 257,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38104.67084,Variable,Variable
+Cardiac pacemaker device replacement,DRG,MS-DRG V37 (FY2020) 258,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,73977.98315,Variable,Variable
+Cardiac pacemaker device replacement,DRG,MS-DRG V37 (FY2020) 259,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,63968.24713,Variable,Variable
+Cardiac pacemaker revision except device replacement,DRG,MS-DRG V37 (FY2020) 260,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,80065.27679,Variable,Variable
+Cardiac pacemaker revision except device replacement,DRG,MS-DRG V37 (FY2020) 261,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,90486.5361,Variable,Variable
+Cardiac pacemaker revision except device replacement,DRG,MS-DRG V37 (FY2020) 262,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,64116.92906,Variable,Variable
+Vein ligation & stripping,DRG,MS-DRG V37 (FY2020) 263,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39322.52106,Variable,Variable
+Other circulatory system O.R. procedures,DRG,MS-DRG V37 (FY2020) 264,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,123063.9251,Variable,Variable
+AICD lead procedures,DRG,MS-DRG V37 (FY2020) 265,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,170193.6517,Variable,Variable
+Endovascular cardiac valve replacement,DRG,MS-DRG V37 (FY2020) 266,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,206020.7896,Variable,Variable
+Endovascular cardiac valve replacement,DRG,MS-DRG V37 (FY2020) 267,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,127745.0267,Variable,Variable
+Aortic and heart assist procedures except pulsation balloon,DRG,MS-DRG V37 (FY2020) 268,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,228362.9864,Variable,Variable
+Aortic and heart assist procedures except pulsation balloon,DRG,MS-DRG V37 (FY2020) 269,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,107134.974,Variable,Variable
+Other major cardiovascular procedures,DRG,MS-DRG V37 (FY2020) 270,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,220915.4275,Variable,Variable
+Other major cardiovascular procedures,DRG,MS-DRG V37 (FY2020) 271,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,106986.3772,Variable,Variable
+Other major cardiovascular procedures,DRG,MS-DRG V37 (FY2020) 272,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95783.74278,Variable,Variable
+Percutaneous intracardiac procedures,DRG,MS-DRG V37 (FY2020) 273,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95602.53451,Variable,Variable
+Percutaneous intracardiac procedures,DRG,MS-DRG V37 (FY2020) 274,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,77968.88249,Variable,Variable
+"Acute myocardial infarction, discharged alive",DRG,MS-DRG V37 (FY2020) 280,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,116738.68,Variable,Variable
+"Acute myocardial infarction, discharged alive",DRG,MS-DRG V37 (FY2020) 281,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36856.06604,Variable,Variable
+"Acute myocardial infarction, discharged alive",DRG,MS-DRG V37 (FY2020) 282,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20476.36509,Variable,Variable
+"Acute myocardial infarction, expired",DRG,MS-DRG V37 (FY2020) 283,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32837.9402,Variable,Variable
+"Circulatory disorders except AMI, w card cath",DRG,MS-DRG V37 (FY2020) 286,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,153441.0119,Variable,Variable
+"Circulatory disorders except AMI, w card cath",DRG,MS-DRG V37 (FY2020) 287,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48745.11162,Variable,Variable
+Acute & subacute endocarditis,DRG,MS-DRG V37 (FY2020) 288,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,93670.63655,Variable,Variable
+Acute & subacute endocarditis,DRG,MS-DRG V37 (FY2020) 289,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39515.1801,Variable,Variable
+Acute & subacute endocarditis,DRG,MS-DRG V37 (FY2020) 290,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95559.72569,Variable,Variable
+Heart failure & shock,DRG,MS-DRG V37 (FY2020) 291,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54538.8867,Variable,Variable
+Heart failure & shock,DRG,MS-DRG V37 (FY2020) 292,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26028.0417,Variable,Variable
+Heart failure & shock,DRG,MS-DRG V37 (FY2020) 293,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19976.787,Variable,Variable
+"Cardiac arrest, unexplained",DRG,MS-DRG V37 (FY2020) 296,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,77808.20821,Variable,Variable
+Peripheral vascular disorders,DRG,MS-DRG V37 (FY2020) 299,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37784.66078,Variable,Variable
+Peripheral vascular disorders,DRG,MS-DRG V37 (FY2020) 300,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36930.82867,Variable,Variable
+Peripheral vascular disorders,DRG,MS-DRG V37 (FY2020) 301,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48782.06353,Variable,Variable
+Atherosclerosis,DRG,MS-DRG V37 (FY2020) 302,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,160570.696,Variable,Variable
+Atherosclerosis,DRG,MS-DRG V37 (FY2020) 303,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24411.96035,Variable,Variable
+Hypertension,DRG,MS-DRG V37 (FY2020) 304,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31331.79389,Variable,Variable
+Hypertension,DRG,MS-DRG V37 (FY2020) 305,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18747.5247,Variable,Variable
+Cardiac congenital & valvular disorders,DRG,MS-DRG V37 (FY2020) 306,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41666.0661,Variable,Variable
+Cardiac congenital & valvular disorders,DRG,MS-DRG V37 (FY2020) 307,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39093.7844,Variable,Variable
+Cardiac arrhythmia & conduction disorders,DRG,MS-DRG V37 (FY2020) 308,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35171.07124,Variable,Variable
+Cardiac arrhythmia & conduction disorders,DRG,MS-DRG V37 (FY2020) 309,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34080.32445,Variable,Variable
+Cardiac arrhythmia & conduction disorders,DRG,MS-DRG V37 (FY2020) 310,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15938.9937,Variable,Variable
+Angina pectoris,DRG,MS-DRG V37 (FY2020) 311,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14235.39141,Variable,Variable
+Syncope & collapse,DRG,MS-DRG V37 (FY2020) 312,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27675.89117,Variable,Variable
+Chest pain,DRG,MS-DRG V37 (FY2020) 313,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,16164.08624,Variable,Variable
+Other circulatory system diagnoses,DRG,MS-DRG V37 (FY2020) 314,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,79144.18694,Variable,Variable
+Other circulatory system diagnoses,DRG,MS-DRG V37 (FY2020) 315,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38944.11213,Variable,Variable
+Other circulatory system diagnoses,DRG,MS-DRG V37 (FY2020) 316,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14629.1196,Variable,Variable
+Other Endovascular Cardiac Valve Procedures W Mcc,DRG,MS-DRG V37 (FY2020) 319,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,169979.832,Variable,Variable
+Other Endovascular Cardiac Valve Procedures W/o Mcc,DRG,MS-DRG V37 (FY2020) 320,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49645.36573,Variable,Variable
+"Stomach, esophageal & duodenal proc",DRG,MS-DRG V37 (FY2020) 326,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,176880.3617,Variable,Variable
+"Stomach, esophageal & duodenal proc",DRG,MS-DRG V37 (FY2020) 327,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,101004.8483,Variable,Variable
+"Stomach, esophageal & duodenal proc",DRG,MS-DRG V37 (FY2020) 328,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50098.69203,Variable,Variable
+Major small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 329,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,155560.2148,Variable,Variable
+Major small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 330,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,81950.48195,Variable,Variable
+Major small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 331,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50566.53295,Variable,Variable
+Rectal resection,DRG,MS-DRG V37 (FY2020) 332,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69187.4958,Variable,Variable
+Rectal resection,DRG,MS-DRG V37 (FY2020) 333,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31776.62496,Variable,Variable
+Rectal resection,DRG,MS-DRG V37 (FY2020) 334,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,88810.27637,Variable,Variable
+Peritoneal adhesiolysis,DRG,MS-DRG V37 (FY2020) 335,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59985.85849,Variable,Variable
+Peritoneal adhesiolysis,DRG,MS-DRG V37 (FY2020) 336,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83457.37102,Variable,Variable
+Peritoneal adhesiolysis,DRG,MS-DRG V37 (FY2020) 337,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57242.81346,Variable,Variable
+Appendectomy w complicated principal diag,DRG,MS-DRG V37 (FY2020) 338,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59985.85849,Variable,Variable
+Appendectomy w complicated principal diag,DRG,MS-DRG V37 (FY2020) 339,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69779.93337,Variable,Variable
+Appendectomy w complicated principal diag,DRG,MS-DRG V37 (FY2020) 340,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35669.38046,Variable,Variable
+Appendectomy w/o complicated principal diag,DRG,MS-DRG V37 (FY2020) 341,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20908.19027,Variable,Variable
+Appendectomy w/o complicated principal diag,DRG,MS-DRG V37 (FY2020) 342,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29216.92362,Variable,Variable
+Appendectomy w/o complicated principal diag,DRG,MS-DRG V37 (FY2020) 343,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23798.95784,Variable,Variable
+Minor small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 344,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,119653.2311,Variable,Variable
+Minor small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 345,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95857.07407,Variable,Variable
+Minor small & large bowel procedures,DRG,MS-DRG V37 (FY2020) 346,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28280.73888,Variable,Variable
+Anal & stomal procedures,DRG,MS-DRG V37 (FY2020) 347,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,733297.0843,Variable,Variable
+Anal & stomal procedures,DRG,MS-DRG V37 (FY2020) 348,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44039.7777,Variable,Variable
+Anal & stomal procedures,DRG,MS-DRG V37 (FY2020) 349,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19555.11276,Variable,Variable
+Inguinal & femoral hernia procedures,DRG,MS-DRG V37 (FY2020) 350,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,101296.6183,Variable,Variable
+Inguinal & femoral hernia procedures,DRG,MS-DRG V37 (FY2020) 351,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44113.99874,Variable,Variable
+Inguinal & femoral hernia procedures,DRG,MS-DRG V37 (FY2020) 352,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24851.08926,Variable,Variable
+Hernia procedures except inguinal & femoral,DRG,MS-DRG V37 (FY2020) 353,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,104649.5015,Variable,Variable
+Hernia procedures except inguinal & femoral,DRG,MS-DRG V37 (FY2020) 354,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59592.47073,Variable,Variable
+Hernia procedures except inguinal & femoral,DRG,MS-DRG V37 (FY2020) 355,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43469.38285,Variable,Variable
+Other digestive system O.R. procedures,DRG,MS-DRG V37 (FY2020) 356,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,151551.327,Variable,Variable
+Other digestive system O.R. procedures,DRG,MS-DRG V37 (FY2020) 357,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69136.05249,Variable,Variable
+Other digestive system O.R. procedures,DRG,MS-DRG V37 (FY2020) 358,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44844.17038,Variable,Variable
+Major esophageal disorders,DRG,MS-DRG V37 (FY2020) 368,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55347.33357,Variable,Variable
+Major esophageal disorders,DRG,MS-DRG V37 (FY2020) 369,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38543.19626,Variable,Variable
+Major esophageal disorders,DRG,MS-DRG V37 (FY2020) 370,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14615.4019,Variable,Variable
+Major gastrointestinal disorders & peritoneal infections,DRG,MS-DRG V37 (FY2020) 371,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40486.74614,Variable,Variable
+Major gastrointestinal disorders & peritoneal infections,DRG,MS-DRG V37 (FY2020) 372,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33793.80013,Variable,Variable
+Major gastrointestinal disorders & peritoneal infections,DRG,MS-DRG V37 (FY2020) 373,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31407.20642,Variable,Variable
+Digestive malignancy,DRG,MS-DRG V37 (FY2020) 374,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,79791.54173,Variable,Variable
+Digestive malignancy,DRG,MS-DRG V37 (FY2020) 375,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35135.00908,Variable,Variable
+Digestive malignancy,DRG,MS-DRG V37 (FY2020) 376,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52767.23749,Variable,Variable
+G.I. hemorrhage,DRG,MS-DRG V37 (FY2020) 377,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66741.10283,Variable,Variable
+G.I. hemorrhage,DRG,MS-DRG V37 (FY2020) 378,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40231.44061,Variable,Variable
+G.I. hemorrhage,DRG,MS-DRG V37 (FY2020) 379,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15855.06272,Variable,Variable
+Complicated peptic ulcer,DRG,MS-DRG V37 (FY2020) 380,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47612.54635,Variable,Variable
+Complicated peptic ulcer,DRG,MS-DRG V37 (FY2020) 381,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34338.81762,Variable,Variable
+Complicated peptic ulcer,DRG,MS-DRG V37 (FY2020) 382,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,8118.062724,Variable,Variable
+Uncomplicated peptic ulcer,DRG,MS-DRG V37 (FY2020) 383,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,118925.1562,Variable,Variable
+Uncomplicated peptic ulcer,DRG,MS-DRG V37 (FY2020) 384,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30156.72154,Variable,Variable
+Inflammatory bowel disease,DRG,MS-DRG V37 (FY2020) 385,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61532.59311,Variable,Variable
+Inflammatory bowel disease,DRG,MS-DRG V37 (FY2020) 386,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57313.47548,Variable,Variable
+Inflammatory bowel disease,DRG,MS-DRG V37 (FY2020) 387,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29539.27025,Variable,Variable
+G.I. obstruction,DRG,MS-DRG V37 (FY2020) 388,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30150.77178,Variable,Variable
+G.I. obstruction,DRG,MS-DRG V37 (FY2020) 389,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28813.40039,Variable,Variable
+G.I. obstruction,DRG,MS-DRG V37 (FY2020) 390,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27276.0198,Variable,Variable
+"Esophagitis, gastroent & misc digest disorders",DRG,MS-DRG V37 (FY2020) 391,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41178.12446,Variable,Variable
+"Esophagitis, gastroent & misc digest disorders",DRG,MS-DRG V37 (FY2020) 392,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28450.7672,Variable,Variable
+Other digestive system diagnoses,DRG,MS-DRG V37 (FY2020) 393,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55115.33962,Variable,Variable
+Other digestive system diagnoses,DRG,MS-DRG V37 (FY2020) 394,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36045.69266,Variable,Variable
+Other digestive system diagnoses,DRG,MS-DRG V37 (FY2020) 395,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13176.111,Variable,Variable
+"Pancreas, liver & shunt procedures",DRG,MS-DRG V37 (FY2020) 405,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,130763.3929,Variable,Variable
+"Pancreas, liver & shunt procedures",DRG,MS-DRG V37 (FY2020) 406,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,98703.90322,Variable,Variable
+"Pancreas, liver & shunt procedures",DRG,MS-DRG V37 (FY2020) 407,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35793.00224,Variable,Variable
+Biliary tract proc except only cholecyst w or w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 408,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,134955.2221,Variable,Variable
+Biliary tract proc except only cholecyst w or w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 409,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,77450.3178,Variable,Variable
+Biliary tract proc except only cholecyst w or w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 410,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36864.01194,Variable,Variable
+Cholecystectomy w c.d.e.,DRG,MS-DRG V37 (FY2020) 411,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,175227.8545,Variable,Variable
+Cholecystectomy w c.d.e.,DRG,MS-DRG V37 (FY2020) 412,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,101482.1671,Variable,Variable
+Cholecystectomy except by laparoscope w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 414,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,358973.9526,Variable,Variable
+Cholecystectomy except by laparoscope w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 415,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,81212.35668,Variable,Variable
+Cholecystectomy except by laparoscope w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 416,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54476.35627,Variable,Variable
+Laparoscopic cholecystectomy w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 417,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51615.08987,Variable,Variable
+Laparoscopic cholecystectomy w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 418,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55663.56023,Variable,Variable
+Laparoscopic cholecystectomy w/o c.d.e.,DRG,MS-DRG V37 (FY2020) 419,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35673.78281,Variable,Variable
+Hepatobiliary diagnostic procedures,DRG,MS-DRG V37 (FY2020) 420,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,139887.7763,Variable,Variable
+Hepatobiliary diagnostic procedures,DRG,MS-DRG V37 (FY2020) 421,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57377.97111,Variable,Variable
+Hepatobiliary diagnostic procedures,DRG,MS-DRG V37 (FY2020) 422,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,142584.1595,Variable,Variable
+Other hepatobiliary or pancreas O.R. procedures,DRG,MS-DRG V37 (FY2020) 423,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,262673.0224,Variable,Variable
+Other hepatobiliary or pancreas O.R. procedures,DRG,MS-DRG V37 (FY2020) 424,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33085.70989,Variable,Variable
+Other hepatobiliary or pancreas O.R. procedures,DRG,MS-DRG V37 (FY2020) 425,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43235.80282,Variable,Variable
+Cirrhosis & alcoholic hepatitis,DRG,MS-DRG V37 (FY2020) 432,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,119928.2583,Variable,Variable
+Cirrhosis & alcoholic hepatitis,DRG,MS-DRG V37 (FY2020) 433,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34431.94789,Variable,Variable
+Cirrhosis & alcoholic hepatitis,DRG,MS-DRG V37 (FY2020) 434,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,7454.5995,Variable,Variable
+Malignancy of hepatobiliary system or pancreas,DRG,MS-DRG V37 (FY2020) 435,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,98456.96139,Variable,Variable
+Malignancy of hepatobiliary system or pancreas,DRG,MS-DRG V37 (FY2020) 436,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25940.23449,Variable,Variable
+Malignancy of hepatobiliary system or pancreas,DRG,MS-DRG V37 (FY2020) 437,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,53690.01401,Variable,Variable
+Disorders of pancreas except malignancy,DRG,MS-DRG V37 (FY2020) 438,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,84117.54602,Variable,Variable
+Disorders of pancreas except malignancy,DRG,MS-DRG V37 (FY2020) 439,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31591.93504,Variable,Variable
+Disorders of pancreas except malignancy,DRG,MS-DRG V37 (FY2020) 440,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,21232.98179,Variable,Variable
+"Disorders of liver except malig,cirr,alc hepa",DRG,MS-DRG V37 (FY2020) 441,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,99782.95166,Variable,Variable
+"Disorders of liver except malig,cirr,alc hepa",DRG,MS-DRG V37 (FY2020) 442,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,45064.14876,Variable,Variable
+"Disorders of liver except malig,cirr,alc hepa",DRG,MS-DRG V37 (FY2020) 443,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22700.358,Variable,Variable
+Disorders of the biliary tract,DRG,MS-DRG V37 (FY2020) 444,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42725.4703,Variable,Variable
+Disorders of the biliary tract,DRG,MS-DRG V37 (FY2020) 445,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29164.19597,Variable,Variable
+Disorders of the biliary tract,DRG,MS-DRG V37 (FY2020) 446,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33320.39631,Variable,Variable
+Combined anterior/posterior spinal fusion,DRG,MS-DRG V37 (FY2020) 453,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,167655.1729,Variable,Variable
+Combined anterior/posterior spinal fusion,DRG,MS-DRG V37 (FY2020) 454,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,186643.3338,Variable,Variable
+Combined anterior/posterior spinal fusion,DRG,MS-DRG V37 (FY2020) 455,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,117798.8579,Variable,Variable
+Spinal fus exc cerv w spinal curv/malig/infec or ext fus,DRG,MS-DRG V37 (FY2020) 456,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,339711.8091,Variable,Variable
+Spinal fus exc cerv w spinal curv/malig/infec or ext fus,DRG,MS-DRG V37 (FY2020) 457,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,276361.2299,Variable,Variable
+Spinal fus exc cerv w spinal curv/malig/infec or ext fus,DRG,MS-DRG V37 (FY2020) 458,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,135479.8217,Variable,Variable
+Spinal fusion except cervical,DRG,MS-DRG V37 (FY2020) 459,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,211546.7407,Variable,Variable
+Spinal fusion except cervical,DRG,MS-DRG V37 (FY2020) 460,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,117987.1687,Variable,Variable
+Bilateral or multiple major joint procs of lower extremity,DRG,MS-DRG V37 (FY2020) 461,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,473881.13,Variable,Variable
+Bilateral or multiple major joint procs of lower extremity,DRG,MS-DRG V37 (FY2020) 462,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,288267.4671,Variable,Variable
+"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis",DRG,MS-DRG V37 (FY2020) 463,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95328.12633,Variable,Variable
+"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis",DRG,MS-DRG V37 (FY2020) 464,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,78133.21637,Variable,Variable
+"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis",DRG,MS-DRG V37 (FY2020) 465,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74886.15221,Variable,Variable
+Revision of hip or knee replacement,DRG,MS-DRG V37 (FY2020) 466,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,217336.8948,Variable,Variable
+Revision of hip or knee replacement,DRG,MS-DRG V37 (FY2020) 467,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,113072.1776,Variable,Variable
+Revision of hip or knee replacement,DRG,MS-DRG V37 (FY2020) 468,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52399.08008,Variable,Variable
+Major joint replacement or reattachment of lower extremity,DRG,MS-DRG V37 (FY2020) 469,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,94371.84086,Variable,Variable
+Major joint replacement or reattachment of lower extremity,DRG,MS-DRG V37 (FY2020) 470,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,67590.285,Variable,Variable
+Cervical spinal fusion,DRG,MS-DRG V37 (FY2020) 471,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,146014.6215,Variable,Variable
+Cervical spinal fusion,DRG,MS-DRG V37 (FY2020) 472,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,87222.26485,Variable,Variable
+Cervical spinal fusion,DRG,MS-DRG V37 (FY2020) 473,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83411.49061,Variable,Variable
+Amputation for musculoskeletal sys & conn tissue dis,DRG,MS-DRG V37 (FY2020) 474,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,88008.90885,Variable,Variable
+Amputation for musculoskeletal sys & conn tissue dis,DRG,MS-DRG V37 (FY2020) 475,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39342.55216,Variable,Variable
+Amputation for musculoskeletal sys & conn tissue dis,DRG,MS-DRG V37 (FY2020) 476,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44940.27939,Variable,Variable
+Biopsies of musculoskeletal system & connective tissue,DRG,MS-DRG V37 (FY2020) 477,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,110848.881,Variable,Variable
+Biopsies of musculoskeletal system & connective tissue,DRG,MS-DRG V37 (FY2020) 478,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61402.7353,Variable,Variable
+Biopsies of musculoskeletal system & connective tissue,DRG,MS-DRG V37 (FY2020) 479,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23121.18117,Variable,Variable
+Hip & femur procedures except major joint,DRG,MS-DRG V37 (FY2020) 480,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83848.14368,Variable,Variable
+Hip & femur procedures except major joint,DRG,MS-DRG V37 (FY2020) 481,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83960.35339,Variable,Variable
+Hip & femur procedures except major joint,DRG,MS-DRG V37 (FY2020) 482,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,56295.79692,Variable,Variable
+Major joint/limb reattachment procedure of upper extremities,DRG,MS-DRG V37 (FY2020) 483,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,63860.35467,Variable,Variable
+Knee procedures w pdx of infection,DRG,MS-DRG V37 (FY2020) 485,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,231872.7681,Variable,Variable
+Knee procedures w pdx of infection,DRG,MS-DRG V37 (FY2020) 486,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,79459.70954,Variable,Variable
+Knee procedures w pdx of infection,DRG,MS-DRG V37 (FY2020) 487,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47681.46755,Variable,Variable
+Knee procedures w/o pdx of infection,DRG,MS-DRG V37 (FY2020) 488,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,67608.91569,Variable,Variable
+Knee procedures w/o pdx of infection,DRG,MS-DRG V37 (FY2020) 489,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39904.45178,Variable,Variable
+"Lower extrem & humer proc except hip,foot,femur",DRG,MS-DRG V37 (FY2020) 492,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,120854.6634,Variable,Variable
+"Lower extrem & humer proc except hip,foot,femur",DRG,MS-DRG V37 (FY2020) 493,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,78760.86502,Variable,Variable
+"Lower extrem & humer proc except hip,foot,femur",DRG,MS-DRG V37 (FY2020) 494,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48630.2868,Variable,Variable
+Local excision & removal int fix devices exc hip & femur,DRG,MS-DRG V37 (FY2020) 495,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,180183.3025,Variable,Variable
+Local excision & removal int fix devices exc hip & femur,DRG,MS-DRG V37 (FY2020) 496,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47379.39185,Variable,Variable
+Local excision & removal int fix devices exc hip & femur,DRG,MS-DRG V37 (FY2020) 497,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44289.24953,Variable,Variable
+Local excision & removal int fix devices of hip & femur,DRG,MS-DRG V37 (FY2020) 498,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,21987.49403,Variable,Variable
+Local excision & removal int fix devices of hip & femur,DRG,MS-DRG V37 (FY2020) 499,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28247.94174,Variable,Variable
+Soft tissue procedures,DRG,MS-DRG V37 (FY2020) 500,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,85969.98498,Variable,Variable
+Soft tissue procedures,DRG,MS-DRG V37 (FY2020) 501,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55149.42111,Variable,Variable
+Soft tissue procedures,DRG,MS-DRG V37 (FY2020) 502,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32720.13664,Variable,Variable
+Foot procedures,DRG,MS-DRG V37 (FY2020) 503,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,112349.6037,Variable,Variable
+Foot procedures,DRG,MS-DRG V37 (FY2020) 504,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61289.28767,Variable,Variable
+Foot procedures,DRG,MS-DRG V37 (FY2020) 505,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24894.10698,Variable,Variable
+Major thumb or joint procedures,DRG,MS-DRG V37 (FY2020) 506,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66874.07864,Variable,Variable
+Major shoulder or elbow joint procedures,DRG,MS-DRG V37 (FY2020) 507,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39623.04935,Variable,Variable
+Major shoulder or elbow joint procedures,DRG,MS-DRG V37 (FY2020) 508,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20458.98005,Variable,Variable
+Arthroscopy,DRG,MS-DRG V37 (FY2020) 509,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36946.40326,Variable,Variable
+"Shoulder,elbow or forearm proc,exc major joint proc",DRG,MS-DRG V37 (FY2020) 510,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,68022.77556,Variable,Variable
+"Shoulder,elbow or forearm proc,exc major joint proc",DRG,MS-DRG V37 (FY2020) 511,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66305.40141,Variable,Variable
+"Shoulder,elbow or forearm proc,exc major joint proc",DRG,MS-DRG V37 (FY2020) 512,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48185.49441,Variable,Variable
+"Hand or wrist proc, except major thumb or joint proc",DRG,MS-DRG V37 (FY2020) 513,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32995.75953,Variable,Variable
+"Hand or wrist proc, except major thumb or joint proc",DRG,MS-DRG V37 (FY2020) 514,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31619.98166,Variable,Variable
+Other musculoskelet sys & conn tiss O.R. proc,DRG,MS-DRG V37 (FY2020) 515,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,132928.6542,Variable,Variable
+Other musculoskelet sys & conn tiss O.R. proc,DRG,MS-DRG V37 (FY2020) 516,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,68930.45719,Variable,Variable
+Other musculoskelet sys & conn tiss O.R. proc,DRG,MS-DRG V37 (FY2020) 517,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52103.33326,Variable,Variable
+Back & neck proc exc spinal fusion,DRG,MS-DRG V37 (FY2020) 518,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,76905.24615,Variable,Variable
+Back & neck proc exc spinal fusion,DRG,MS-DRG V37 (FY2020) 519,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66438.84145,Variable,Variable
+Back & neck proc exc spinal fusion,DRG,MS-DRG V37 (FY2020) 520,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33772.22937,Variable,Variable
+Fractures of femur,DRG,MS-DRG V37 (FY2020) 533,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24276.176,Variable,Variable
+Fractures of femur,DRG,MS-DRG V37 (FY2020) 534,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,9764.032104,Variable,Variable
+Fractures of hip & pelvis,DRG,MS-DRG V37 (FY2020) 535,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33752.53871,Variable,Variable
+Fractures of hip & pelvis,DRG,MS-DRG V37 (FY2020) 536,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26382.51236,Variable,Variable
+"Sprains, strains, & dislocations of hip, pelvis & thigh",DRG,MS-DRG V37 (FY2020) 537,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28994.23729,Variable,Variable
+"Sprains, strains, & dislocations of hip, pelvis & thigh",DRG,MS-DRG V37 (FY2020) 538,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27340.43033,Variable,Variable
+Osteomyelitis,DRG,MS-DRG V37 (FY2020) 539,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35508.70618,Variable,Variable
+Osteomyelitis,DRG,MS-DRG V37 (FY2020) 540,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51549.95981,Variable,Variable
+Osteomyelitis,DRG,MS-DRG V37 (FY2020) 541,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28251.18354,Variable,Variable
+Pathological fractures & musculoskelet & conn tiss malig,DRG,MS-DRG V37 (FY2020) 542,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,118965.9998,Variable,Variable
+Pathological fractures & musculoskelet & conn tiss malig,DRG,MS-DRG V37 (FY2020) 543,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40543.33456,Variable,Variable
+Pathological fractures & musculoskelet & conn tiss malig,DRG,MS-DRG V37 (FY2020) 544,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23632.6665,Variable,Variable
+Connective tissue disorders,DRG,MS-DRG V37 (FY2020) 545,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,95533.96921,Variable,Variable
+Connective tissue disorders,DRG,MS-DRG V37 (FY2020) 546,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31980.99008,Variable,Variable
+Connective tissue disorders,DRG,MS-DRG V37 (FY2020) 547,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19331.4593,Variable,Variable
+Septic arthritis,DRG,MS-DRG V37 (FY2020) 548,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,136317.6305,Variable,Variable
+Septic arthritis,DRG,MS-DRG V37 (FY2020) 549,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38414.29784,Variable,Variable
+Septic arthritis,DRG,MS-DRG V37 (FY2020) 550,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,11500.50117,Variable,Variable
+Medical back problems,DRG,MS-DRG V37 (FY2020) 551,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42990.02928,Variable,Variable
+Medical back problems,DRG,MS-DRG V37 (FY2020) 552,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32627.32359,Variable,Variable
+Bone diseases & arthropathies,DRG,MS-DRG V37 (FY2020) 553,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,77356.2823,Variable,Variable
+Bone diseases & arthropathies,DRG,MS-DRG V37 (FY2020) 554,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28092.68336,Variable,Variable
+Signs & symptoms of musculoskeletal system & conn tissue,DRG,MS-DRG V37 (FY2020) 555,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41847.60707,Variable,Variable
+Signs & symptoms of musculoskeletal system & conn tissue,DRG,MS-DRG V37 (FY2020) 556,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,16400.40517,Variable,Variable
+"Tendonitis, myositis & bursitis",DRG,MS-DRG V37 (FY2020) 557,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28476.78673,Variable,Variable
+"Tendonitis, myositis & bursitis",DRG,MS-DRG V37 (FY2020) 558,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20151.0165,Variable,Variable
+"Aftercare, musculoskeletal system & connective tissue",DRG,MS-DRG V37 (FY2020) 559,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28123.30641,Variable,Variable
+"Aftercare, musculoskeletal system & connective tissue",DRG,MS-DRG V37 (FY2020) 560,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27592.47084,Variable,Variable
+"Aftercare, musculoskeletal system & connective tissue",DRG,MS-DRG V37 (FY2020) 561,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19243.16466,Variable,Variable
+"Fx, sprn, strn & disl except femur, hip, pelvis & thigh",DRG,MS-DRG V37 (FY2020) 562,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37236.01464,Variable,Variable
+"Fx, sprn, strn & disl except femur, hip, pelvis & thigh",DRG,MS-DRG V37 (FY2020) 563,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,45904.44886,Variable,Variable
+Other musculoskeletal sys & connective tissue diagnoses,DRG,MS-DRG V37 (FY2020) 564,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38745.27123,Variable,Variable
+Other musculoskeletal sys & connective tissue diagnoses,DRG,MS-DRG V37 (FY2020) 565,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52746.95108,Variable,Variable
+Other musculoskeletal sys & connective tissue diagnoses,DRG,MS-DRG V37 (FY2020) 566,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26348.3535,Variable,Variable
+Skin debridement,DRG,MS-DRG V37 (FY2020) 570,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,77400.34451,Variable,Variable
+Skin debridement,DRG,MS-DRG V37 (FY2020) 571,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55041.69886,Variable,Variable
+Skin debridement,DRG,MS-DRG V37 (FY2020) 572,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,45798.46743,Variable,Variable
+Skin graft for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 573,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,210752.2746,Variable,Variable
+Skin graft for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 574,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69305.80227,Variable,Variable
+Skin graft for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 575,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52657.2483,Variable,Variable
+Skin graft exc for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 576,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49836.3381,Variable,Variable
+Skin graft exc for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 577,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,76759.26443,Variable,Variable
+Skin graft exc for skin ulcer or cellulitis,DRG,MS-DRG V37 (FY2020) 578,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36713.21008,Variable,Variable
+"Other skin, subcut tiss & breast proc",DRG,MS-DRG V37 (FY2020) 579,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,89293.29728,Variable,Variable
+"Other skin, subcut tiss & breast proc",DRG,MS-DRG V37 (FY2020) 580,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,78800.67188,Variable,Variable
+"Other skin, subcut tiss & breast proc",DRG,MS-DRG V37 (FY2020) 581,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,82518.30038,Variable,Variable
+Mastectomy for malignancy,DRG,MS-DRG V37 (FY2020) 582,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74952.55114,Variable,Variable
+Mastectomy for malignancy,DRG,MS-DRG V37 (FY2020) 583,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66375.64563,Variable,Variable
+"Breast biopsy, local excision & other breast procedures",DRG,MS-DRG V37 (FY2020) 584,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,84821.75228,Variable,Variable
+"Breast biopsy, local excision & other breast procedures",DRG,MS-DRG V37 (FY2020) 585,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,90821.68747,Variable,Variable
+Skin ulcers,DRG,MS-DRG V37 (FY2020) 592,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40806.92641,Variable,Variable
+Skin ulcers,DRG,MS-DRG V37 (FY2020) 593,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18758.75882,Variable,Variable
+Skin ulcers,DRG,MS-DRG V37 (FY2020) 594,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33480.97775,Variable,Variable
+Major skin disorders,DRG,MS-DRG V37 (FY2020) 595,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,71305.49182,Variable,Variable
+Major skin disorders,DRG,MS-DRG V37 (FY2020) 596,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37943.57876,Variable,Variable
+Malignant breast disorders,DRG,MS-DRG V37 (FY2020) 597,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,290018.2651,Variable,Variable
+Malignant breast disorders,DRG,MS-DRG V37 (FY2020) 598,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22731.62322,Variable,Variable
+Malignant breast disorders,DRG,MS-DRG V37 (FY2020) 599,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61019.62227,Variable,Variable
+Non-malignant breast disorders,DRG,MS-DRG V37 (FY2020) 600,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24136.07441,Variable,Variable
+Non-malignant breast disorders,DRG,MS-DRG V37 (FY2020) 601,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,9472.4091,Variable,Variable
+Cellulitis,DRG,MS-DRG V37 (FY2020) 602,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35398.40751,Variable,Variable
+Cellulitis,DRG,MS-DRG V37 (FY2020) 603,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25436.88848,Variable,Variable
+"Trauma to the skin, subcut tiss & breast",DRG,MS-DRG V37 (FY2020) 604,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35411.83894,Variable,Variable
+"Trauma to the skin, subcut tiss & breast",DRG,MS-DRG V37 (FY2020) 605,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32573.94602,Variable,Variable
+Minor skin disorders,DRG,MS-DRG V37 (FY2020) 606,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24170.241,Variable,Variable
+Minor skin disorders,DRG,MS-DRG V37 (FY2020) 607,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23107.57952,Variable,Variable
+Adrenal & pituitary procedures,DRG,MS-DRG V37 (FY2020) 614,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57166.65043,Variable,Variable
+Adrenal & pituitary procedures,DRG,MS-DRG V37 (FY2020) 615,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38031.30087,Variable,Variable
+"Amputat of lower limb for endocrine,nutrit,& metabol dis",DRG,MS-DRG V37 (FY2020) 616,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,143058.2983,Variable,Variable
+"Amputat of lower limb for endocrine,nutrit,& metabol dis",DRG,MS-DRG V37 (FY2020) 617,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57709.0915,Variable,Variable
+O.R. procedures for obesity,DRG,MS-DRG V37 (FY2020) 619,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,192365.2012,Variable,Variable
+O.R. procedures for obesity,DRG,MS-DRG V37 (FY2020) 620,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33825.49088,Variable,Variable
+O.R. procedures for obesity,DRG,MS-DRG V37 (FY2020) 621,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27525.90943,Variable,Variable
+"Skin grafts & wound debrid for endoc, nutrit & metab dis",DRG,MS-DRG V37 (FY2020) 622,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,202751.4506,Variable,Variable
+"Skin grafts & wound debrid for endoc, nutrit & metab dis",DRG,MS-DRG V37 (FY2020) 623,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29960.89033,Variable,Variable
+"Skin grafts & wound debrid for endoc, nutrit & metab dis",DRG,MS-DRG V37 (FY2020) 624,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,9987.167184,Variable,Variable
+"Thyroid, parathyroid & thyroglossal procedures",DRG,MS-DRG V37 (FY2020) 625,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36371.18825,Variable,Variable
+"Thyroid, parathyroid & thyroglossal procedures",DRG,MS-DRG V37 (FY2020) 626,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50802.57335,Variable,Variable
+"Thyroid, parathyroid & thyroglossal procedures",DRG,MS-DRG V37 (FY2020) 627,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38275.2949,Variable,Variable
+"Other endocrine, nutrit & metab O.R. proc",DRG,MS-DRG V37 (FY2020) 628,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22759.03541,Variable,Variable
+"Other endocrine, nutrit & metab O.R. proc",DRG,MS-DRG V37 (FY2020) 629,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52067.95196,Variable,Variable
+"Other endocrine, nutrit & metab O.R. proc",DRG,MS-DRG V37 (FY2020) 630,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,53176.91164,Variable,Variable
+Diabetes,DRG,MS-DRG V37 (FY2020) 637,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47670.72859,Variable,Variable
+Diabetes,DRG,MS-DRG V37 (FY2020) 638,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31569.20373,Variable,Variable
+Diabetes,DRG,MS-DRG V37 (FY2020) 639,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37840.90104,Variable,Variable
+"Misc disorders of nutrition,metabolism,fluids/electrolytes",DRG,MS-DRG V37 (FY2020) 640,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,46295.70895,Variable,Variable
+"Misc disorders of nutrition,metabolism,fluids/electrolytes",DRG,MS-DRG V37 (FY2020) 641,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24514.13517,Variable,Variable
+Inborn and other disorders of metabolism,DRG,MS-DRG V37 (FY2020) 642,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33628.84729,Variable,Variable
+Endocrine disorders,DRG,MS-DRG V37 (FY2020) 643,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61087.3365,Variable,Variable
+Endocrine disorders,DRG,MS-DRG V37 (FY2020) 644,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36461.37073,Variable,Variable
+Endocrine disorders,DRG,MS-DRG V37 (FY2020) 645,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17025.63214,Variable,Variable
+Kidney transplant,DRG,MS-DRG V37 (FY2020) 652,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,168473.6702,Variable,Variable
+Major bladder procedures,DRG,MS-DRG V37 (FY2020) 653,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,219478.1096,Variable,Variable
+Major bladder procedures,DRG,MS-DRG V37 (FY2020) 654,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,113500.2581,Variable,Variable
+Major bladder procedures,DRG,MS-DRG V37 (FY2020) 655,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,102488.1086,Variable,Variable
+Kidney & ureter procedures for neoplasm,DRG,MS-DRG V37 (FY2020) 656,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,114142.4678,Variable,Variable
+Kidney & ureter procedures for neoplasm,DRG,MS-DRG V37 (FY2020) 657,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59350.87517,Variable,Variable
+Kidney & ureter procedures for neoplasm,DRG,MS-DRG V37 (FY2020) 658,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47596.03559,Variable,Variable
+Kidney & ureter procedures for non-neoplasm,DRG,MS-DRG V37 (FY2020) 659,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,145987.5806,Variable,Variable
+Kidney & ureter procedures for non-neoplasm,DRG,MS-DRG V37 (FY2020) 660,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48251.07322,Variable,Variable
+Kidney & ureter procedures for non-neoplasm,DRG,MS-DRG V37 (FY2020) 661,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,28811.00965,Variable,Variable
+Minor bladder procedures,DRG,MS-DRG V37 (FY2020) 662,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59973.81972,Variable,Variable
+Minor bladder procedures,DRG,MS-DRG V37 (FY2020) 663,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54042.40341,Variable,Variable
+Minor bladder procedures,DRG,MS-DRG V37 (FY2020) 664,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50735.35429,Variable,Variable
+Prostatectomy,DRG,MS-DRG V37 (FY2020) 665,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,105752.6816,Variable,Variable
+Prostatectomy,DRG,MS-DRG V37 (FY2020) 666,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35082.66054,Variable,Variable
+Transurethral procedures,DRG,MS-DRG V37 (FY2020) 668,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,380203.0814,Variable,Variable
+Transurethral procedures,DRG,MS-DRG V37 (FY2020) 669,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40018.13152,Variable,Variable
+Transurethral procedures,DRG,MS-DRG V37 (FY2020) 670,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39111.68781,Variable,Variable
+Urethral procedures,DRG,MS-DRG V37 (FY2020) 671,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,65973.399,Variable,Variable
+Urethral procedures,DRG,MS-DRG V37 (FY2020) 672,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42526.36634,Variable,Variable
+Other kidney & urinary tract procedures,DRG,MS-DRG V37 (FY2020) 673,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,113813.622,Variable,Variable
+Other kidney & urinary tract procedures,DRG,MS-DRG V37 (FY2020) 674,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,79249.34825,Variable,Variable
+Other kidney & urinary tract procedures,DRG,MS-DRG V37 (FY2020) 675,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15071.68374,Variable,Variable
+Renal failure,DRG,MS-DRG V37 (FY2020) 682,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40445.2294,Variable,Variable
+Renal failure,DRG,MS-DRG V37 (FY2020) 683,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40799.19715,Variable,Variable
+Renal failure,DRG,MS-DRG V37 (FY2020) 684,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,11762.5611,Variable,Variable
+Kidney & urinary tract neoplasms,DRG,MS-DRG V37 (FY2020) 686,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39499.13356,Variable,Variable
+Kidney & urinary tract neoplasms,DRG,MS-DRG V37 (FY2020) 687,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23114.80588,Variable,Variable
+Kidney & urinary tract neoplasms,DRG,MS-DRG V37 (FY2020) 688,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,11407.13879,Variable,Variable
+Kidney & urinary tract infections,DRG,MS-DRG V37 (FY2020) 689,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37757.72829,Variable,Variable
+Kidney & urinary tract infections,DRG,MS-DRG V37 (FY2020) 690,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29076.55897,Variable,Variable
+Urinary stones w esw lithotripsy,DRG,MS-DRG V37 (FY2020) 693,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17780.53897,Variable,Variable
+Urinary stones w esw lithotripsy,DRG,MS-DRG V37 (FY2020) 694,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27656.09993,Variable,Variable
+Kidney & urinary tract signs & symptoms,DRG,MS-DRG V37 (FY2020) 695,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39473.02892,Variable,Variable
+Kidney & urinary tract signs & symptoms,DRG,MS-DRG V37 (FY2020) 696,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,10504.5249,Variable,Variable
+Urethral stricture,DRG,MS-DRG V37 (FY2020) 697,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39274.76056,Variable,Variable
+Other kidney & urinary tract diagnoses,DRG,MS-DRG V37 (FY2020) 698,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,46596.17534,Variable,Variable
+Other kidney & urinary tract diagnoses,DRG,MS-DRG V37 (FY2020) 699,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29243.036,Variable,Variable
+Other kidney & urinary tract diagnoses,DRG,MS-DRG V37 (FY2020) 700,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25265.46751,Variable,Variable
+Major male pelvic procedures,DRG,MS-DRG V37 (FY2020) 707,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49662.32523,Variable,Variable
+Major male pelvic procedures,DRG,MS-DRG V37 (FY2020) 708,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43691.34964,Variable,Variable
+Penis procedures,DRG,MS-DRG V37 (FY2020) 709,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55963.8951,Variable,Variable
+Penis procedures,DRG,MS-DRG V37 (FY2020) 710,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52248.28595,Variable,Variable
+Testes procedures,DRG,MS-DRG V37 (FY2020) 711,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,62858.49054,Variable,Variable
+Testes procedures,DRG,MS-DRG V37 (FY2020) 712,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40470.32822,Variable,Variable
+Transurethral prostatectomy,DRG,MS-DRG V37 (FY2020) 713,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14082.20654,Variable,Variable
+Transurethral prostatectomy,DRG,MS-DRG V37 (FY2020) 714,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22810.9971,Variable,Variable
+Other male reproductive system O.R. proc for malignancy,DRG,MS-DRG V37 (FY2020) 715,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,70629.13101,Variable,Variable
+Other male reproductive system O.R. proc exc malignancy,DRG,MS-DRG V37 (FY2020) 717,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,58228.14362,Variable,Variable
+Other male reproductive system O.R. proc exc malignancy,DRG,MS-DRG V37 (FY2020) 718,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25407.96757,Variable,Variable
+"Malignancy, male reproductive system",DRG,MS-DRG V37 (FY2020) 722,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,7068.21372,Variable,Variable
+"Malignancy, male reproductive system",DRG,MS-DRG V37 (FY2020) 723,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31742.87617,Variable,Variable
+"Malignancy, male reproductive system",DRG,MS-DRG V37 (FY2020) 724,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33796.06707,Variable,Variable
+Benign prostatic hypertrophy,DRG,MS-DRG V37 (FY2020) 725,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,20823.20706,Variable,Variable
+Benign prostatic hypertrophy,DRG,MS-DRG V37 (FY2020) 726,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33243.65301,Variable,Variable
+Inflammation of the male reproductive system,DRG,MS-DRG V37 (FY2020) 727,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,67920.85606,Variable,Variable
+Inflammation of the male reproductive system,DRG,MS-DRG V37 (FY2020) 728,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23365.50789,Variable,Variable
+Other male reproductive system diagnoses,DRG,MS-DRG V37 (FY2020) 729,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33874.39646,Variable,Variable
+"Pelvic evisceration, rad hysterectomy & rad vulvectomy",DRG,MS-DRG V37 (FY2020) 734,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,66354.65515,Variable,Variable
+Uterine & adnexa proc for ovarian or adnexal malignancy,DRG,MS-DRG V37 (FY2020) 736,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,116017.6844,Variable,Variable
+Uterine & adnexa proc for ovarian or adnexal malignancy,DRG,MS-DRG V37 (FY2020) 737,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61024.62038,Variable,Variable
+Uterine & adnexa proc for ovarian or adnexal malignancy,DRG,MS-DRG V37 (FY2020) 738,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,60054.8648,Variable,Variable
+"Uterine,adnexa proc for non-ovarian/adnexal malig",DRG,MS-DRG V37 (FY2020) 739,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,92594.50496,Variable,Variable
+"Uterine,adnexa proc for non-ovarian/adnexal malig",DRG,MS-DRG V37 (FY2020) 740,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,65275.86977,Variable,Variable
+"Uterine,adnexa proc for non-ovarian/adnexal malig",DRG,MS-DRG V37 (FY2020) 741,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42164.41401,Variable,Variable
+Uterine & adnexa proc for non-malignancy,DRG,MS-DRG V37 (FY2020) 742,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44075.6387,Variable,Variable
+Uterine & adnexa proc for non-malignancy,DRG,MS-DRG V37 (FY2020) 743,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,37978.00068,Variable,Variable
+"D&C, conization, laparoscopy & tubal interruption",DRG,MS-DRG V37 (FY2020) 744,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41205.01053,Variable,Variable
+"D&C, conization, laparoscopy & tubal interruption",DRG,MS-DRG V37 (FY2020) 745,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39632.7825,Variable,Variable
+"Vagina, cervix & vulva procedures",DRG,MS-DRG V37 (FY2020) 746,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57538.39781,Variable,Variable
+"Vagina, cervix & vulva procedures",DRG,MS-DRG V37 (FY2020) 747,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51063.19419,Variable,Variable
+Female reproductive system reconstructive procedures,DRG,MS-DRG V37 (FY2020) 748,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,33840.21439,Variable,Variable
+Other female reproductive system O.R. procedures,DRG,MS-DRG V37 (FY2020) 749,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,62347.22958,Variable,Variable
+Other female reproductive system O.R. procedures,DRG,MS-DRG V37 (FY2020) 750,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22324.58738,Variable,Variable
+"Malignancy, female reproductive system",DRG,MS-DRG V37 (FY2020) 754,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,40991.03606,Variable,Variable
+"Malignancy, female reproductive system",DRG,MS-DRG V37 (FY2020) 755,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61385.30384,Variable,Variable
+"Malignancy, female reproductive system",DRG,MS-DRG V37 (FY2020) 756,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,60032.16444,Variable,Variable
+"Infections, female reproductive system",DRG,MS-DRG V37 (FY2020) 757,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26851.28945,Variable,Variable
+"Infections, female reproductive system",DRG,MS-DRG V37 (FY2020) 758,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24942.4787,Variable,Variable
+"Infections, female reproductive system",DRG,MS-DRG V37 (FY2020) 759,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13875.99228,Variable,Variable
+Menstrual & other female reproductive system disorders,DRG,MS-DRG V37 (FY2020) 760,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26002.63339,Variable,Variable
+Menstrual & other female reproductive system disorders,DRG,MS-DRG V37 (FY2020) 761,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14080.19492,Variable,Variable
+Vaginal delivery w O.R. proc except steril &/or D&C,DRG,MS-DRG V37 (FY2020) 768,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32846.20332,Variable,Variable
+Postpartum & post abortion diagnoses w O.R. procedure,DRG,MS-DRG V37 (FY2020) 769,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32253.63422,Variable,Variable
+"Abortion w D&C, aspiration curettage or hysterotomy",DRG,MS-DRG V37 (FY2020) 770,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15290.74142,Variable,Variable
+Postpartum & post abortion diagnoses w/o O.R. procedure,DRG,MS-DRG V37 (FY2020) 776,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15310.8112,Variable,Variable
+Abortion w/o D&C,DRG,MS-DRG V37 (FY2020) 779,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13357.1568,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 783,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38972.32897,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 784,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,35643.32998,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 785,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26439.47989,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 786,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47745.47575,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 787,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38058.20242,Variable,Variable
+Cesarean section,DRG,MS-DRG V37 (FY2020) 788,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32159.8231,Variable,Variable
+"Neonates, died or transferred to another acute care facility",DRG,MS-DRG V37 (FY2020) 789,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,46574.47306,Variable,Variable
+"Extreme immaturity or respiratory distress syndrome, neonate",DRG,MS-DRG V37 (FY2020) 790,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,190261.3949,Variable,Variable
+Prematurity w major problems,DRG,MS-DRG V37 (FY2020) 791,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,106582.2273,Variable,Variable
+Prematurity w/o major problems,DRG,MS-DRG V37 (FY2020) 792,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25874.71757,Variable,Variable
+Full term neonate w major problems,DRG,MS-DRG V37 (FY2020) 793,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,83944.91034,Variable,Variable
+Neonate w other significant problems,DRG,MS-DRG V37 (FY2020) 794,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,2234.639025,Variable,Variable
+Normal newborn,DRG,MS-DRG V37 (FY2020) 795,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,394.587,Variable,Variable
+Vaginal delivery w sterilization &/or D&C,DRG,MS-DRG V37 (FY2020) 796,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29077.33267,Variable,Variable
+Vaginal delivery w sterilization &/or D&C,DRG,MS-DRG V37 (FY2020) 797,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26479.60397,Variable,Variable
+Vaginal delivery w sterilization &/or D&C,DRG,MS-DRG V37 (FY2020) 798,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30526.31029,Variable,Variable
+Splenectomy,DRG,MS-DRG V37 (FY2020) 799,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,113128.6422,Variable,Variable
+Splenectomy,DRG,MS-DRG V37 (FY2020) 800,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,47989.60904,Variable,Variable
+Splenectomy,DRG,MS-DRG V37 (FY2020) 801,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18635.56257,Variable,Variable
+Other O.R. proc of the blood & blood forming organs,DRG,MS-DRG V37 (FY2020) 802,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,88554.28225,Variable,Variable
+Other O.R. proc of the blood & blood forming organs,DRG,MS-DRG V37 (FY2020) 803,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59900.45749,Variable,Variable
+Other O.R. proc of the blood & blood forming organs,DRG,MS-DRG V37 (FY2020) 804,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,55300.03729,Variable,Variable
+Vaginal delivery w/o sterilization/D&C,DRG,MS-DRG V37 (FY2020) 805,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30619.1775,Variable,Variable
+Vaginal delivery w/o sterilization/D&C,DRG,MS-DRG V37 (FY2020) 806,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26343.92794,Variable,Variable
+Vaginal delivery w/o sterilization/D&C,DRG,MS-DRG V37 (FY2020) 807,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22997.98492,Variable,Variable
+Major hematol/immun diag exc sickle cell crisis & coagul,DRG,MS-DRG V37 (FY2020) 808,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69030.82155,Variable,Variable
+Major hematol/immun diag exc sickle cell crisis & coagul,DRG,MS-DRG V37 (FY2020) 809,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,39809.65032,Variable,Variable
+Major hematol/immun diag exc sickle cell crisis & coagul,DRG,MS-DRG V37 (FY2020) 810,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,25613.3385,Variable,Variable
+Red blood cell disorders,DRG,MS-DRG V37 (FY2020) 811,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54985.60561,Variable,Variable
+Red blood cell disorders,DRG,MS-DRG V37 (FY2020) 812,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26351.35546,Variable,Variable
+Coagulation disorders,DRG,MS-DRG V37 (FY2020) 813,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42957.10834,Variable,Variable
+Reticuloendothelial & immunity disorders,DRG,MS-DRG V37 (FY2020) 814,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,64537.0559,Variable,Variable
+Reticuloendothelial & immunity disorders,DRG,MS-DRG V37 (FY2020) 815,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30604.35341,Variable,Variable
+Reticuloendothelial & immunity disorders,DRG,MS-DRG V37 (FY2020) 816,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13669.40665,Variable,Variable
+Other antepartum diagnoses w O.R. procedure,DRG,MS-DRG V37 (FY2020) 817,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,148917.1415,Variable,Variable
+Other antepartum diagnoses w O.R. procedure,DRG,MS-DRG V37 (FY2020) 818,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50407.80066,Variable,Variable
+Other antepartum diagnoses w O.R. procedure,DRG,MS-DRG V37 (FY2020) 819,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52106.00252,Variable,Variable
+Lymphoma & leukemia w major O.R. procedure,DRG,MS-DRG V37 (FY2020) 820,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,364909.5082,Variable,Variable
+Lymphoma & leukemia w major O.R. procedure,DRG,MS-DRG V37 (FY2020) 821,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,60920.9291,Variable,Variable
+Lymphoma & leukemia w major O.R. procedure,DRG,MS-DRG V37 (FY2020) 822,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30644.09064,Variable,Variable
+Lymphoma & non-acute leukemia w other O.R. proc,DRG,MS-DRG V37 (FY2020) 823,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,179512.4349,Variable,Variable
+Lymphoma & non-acute leukemia w other O.R. proc,DRG,MS-DRG V37 (FY2020) 824,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69869.6052,Variable,Variable
+Lymphoma & non-acute leukemia w other O.R. proc,DRG,MS-DRG V37 (FY2020) 825,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,58537.00466,Variable,Variable
+Myeloprolif disord or poorly diff neopl w maj O.R. proc,DRG,MS-DRG V37 (FY2020) 826,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,108320.2824,Variable,Variable
+Myeloprolif disord or poorly diff neopl w maj O.R. proc,DRG,MS-DRG V37 (FY2020) 827,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,84164.14597,Variable,Variable
+Myeloprolif disord or poorly diff neopl w maj O.R. proc,DRG,MS-DRG V37 (FY2020) 828,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49780.23711,Variable,Variable
+Myeloprolif disord or poorly diff neopl w other O.R. proc,DRG,MS-DRG V37 (FY2020) 829,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,84755.20635,Variable,Variable
+Myeloprolif disord or poorly diff neopl w other O.R. proc,DRG,MS-DRG V37 (FY2020) 830,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,44265.52789,Variable,Variable
+Other antepartum diagnoses w/o O.R. procedure,DRG,MS-DRG V37 (FY2020) 831,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24168.38412,Variable,Variable
+Other antepartum diagnoses w/o O.R. procedure,DRG,MS-DRG V37 (FY2020) 832,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,16982.07283,Variable,Variable
+Other antepartum diagnoses w/o O.R. procedure,DRG,MS-DRG V37 (FY2020) 833,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,12709.60859,Variable,Variable
+Acute leukemia w/o major O.R. procedure,DRG,MS-DRG V37 (FY2020) 834,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,276984.6542,Variable,Variable
+Acute leukemia w/o major O.R. procedure,DRG,MS-DRG V37 (FY2020) 835,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,170320.8867,Variable,Variable
+Acute leukemia w/o major O.R. procedure,DRG,MS-DRG V37 (FY2020) 836,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38465.85721,Variable,Variable
+Chemo w acute leukemia as sdx,DRG,MS-DRG V37 (FY2020) 837,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,82697.81426,Variable,Variable
+Chemo w acute leukemia as sdx,DRG,MS-DRG V37 (FY2020) 838,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49628.11222,Variable,Variable
+Chemo w acute leukemia as sdx,DRG,MS-DRG V37 (FY2020) 839,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31189.23966,Variable,Variable
+Lymphoma & non-acute leukemia,DRG,MS-DRG V37 (FY2020) 840,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,127429.6047,Variable,Variable
+Lymphoma & non-acute leukemia,DRG,MS-DRG V37 (FY2020) 841,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38594.77111,Variable,Variable
+Lymphoma & non-acute leukemia,DRG,MS-DRG V37 (FY2020) 842,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50062.98578,Variable,Variable
+Other myeloprolif dis or poorly diff neopl diag,DRG,MS-DRG V37 (FY2020) 843,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52678.87322,Variable,Variable
+Other myeloprolif dis or poorly diff neopl diag,DRG,MS-DRG V37 (FY2020) 844,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24222.04795,Variable,Variable
+Other myeloprolif dis or poorly diff neopl diag,DRG,MS-DRG V37 (FY2020) 845,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,21065.75427,Variable,Variable
+Chemotherapy w/o acute leukemia as secondary diagnosis,DRG,MS-DRG V37 (FY2020) 846,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50432.70606,Variable,Variable
+Chemotherapy w/o acute leukemia as secondary diagnosis,DRG,MS-DRG V37 (FY2020) 847,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34812.19823,Variable,Variable
+Chemotherapy w/o acute leukemia as secondary diagnosis,DRG,MS-DRG V37 (FY2020) 848,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29389.66762,Variable,Variable
+Radiotherapy,DRG,MS-DRG V37 (FY2020) 849,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18678.78146,Variable,Variable
+Infectious & parasitic diseases w O.R. procedure,DRG,MS-DRG V37 (FY2020) 853,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,250057.8593,Variable,Variable
+Infectious & parasitic diseases w O.R. procedure,DRG,MS-DRG V37 (FY2020) 854,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59649.70905,Variable,Variable
+Infectious & parasitic diseases w O.R. procedure,DRG,MS-DRG V37 (FY2020) 855,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50341.10772,Variable,Variable
+Postoperative or post-traumatic infections w O.R. proc,DRG,MS-DRG V37 (FY2020) 856,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,136907.7237,Variable,Variable
+Postoperative or post-traumatic infections w O.R. proc,DRG,MS-DRG V37 (FY2020) 857,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,54416.42546,Variable,Variable
+Postoperative or post-traumatic infections w O.R. proc,DRG,MS-DRG V37 (FY2020) 858,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,38593.92004,Variable,Variable
+Postoperative & post-traumatic infections,DRG,MS-DRG V37 (FY2020) 862,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,68274.42149,Variable,Variable
+Postoperative & post-traumatic infections,DRG,MS-DRG V37 (FY2020) 863,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41516.55631,Variable,Variable
+Fever,DRG,MS-DRG V37 (FY2020) 864,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22673.4255,Variable,Variable
+Viral illness,DRG,MS-DRG V37 (FY2020) 865,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27619.76697,Variable,Variable
+Viral illness,DRG,MS-DRG V37 (FY2020) 866,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24311.2014,Variable,Variable
+Other infectious & parasitic diseases diagnoses,DRG,MS-DRG V37 (FY2020) 867,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,73376.53198,Variable,Variable
+Other infectious & parasitic diseases diagnoses,DRG,MS-DRG V37 (FY2020) 868,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,51831.36997,Variable,Variable
+Other infectious & parasitic diseases diagnoses,DRG,MS-DRG V37 (FY2020) 869,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22411.41974,Variable,Variable
+Septicemia or severe sepsis w MV >96 hours,DRG,MS-DRG V37 (FY2020) 870,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,299209.3878,Variable,Variable
+Septicemia or severe sepsis w/o MV >96 hours,DRG,MS-DRG V37 (FY2020) 871,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,69127.09304,Variable,Variable
+Septicemia or severe sepsis w/o MV >96 hours,DRG,MS-DRG V37 (FY2020) 872,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,36023.43332,Variable,Variable
+O.R. procedure w principal diagnoses of mental illness,DRG,MS-DRG V37 (FY2020) 876,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,62901.84095,Variable,Variable
+Acute adjustment reaction & psychosocial dysfunction,DRG,MS-DRG V37 (FY2020) 880,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,29223.4227,Variable,Variable
+Depressive neuroses,DRG,MS-DRG V37 (FY2020) 881,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,23845.434,Variable,Variable
+Neuroses except depressive,DRG,MS-DRG V37 (FY2020) 882,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17856.44667,Variable,Variable
+Disorders of personality & impulse control,DRG,MS-DRG V37 (FY2020) 883,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,63568.55371,Variable,Variable
+Organic disturbances & intellectual disability,DRG,MS-DRG V37 (FY2020) 884,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,21538.70935,Variable,Variable
+Psychoses,DRG,MS-DRG V37 (FY2020) 885,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,30912.6806,Variable,Variable
+Behavioral & developmental disorders,DRG,MS-DRG V37 (FY2020) 886,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14513.67582,Variable,Variable
+Other mental disorder diagnoses,DRG,MS-DRG V37 (FY2020) 887,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,63380.23513,Variable,Variable
+"Alcohol/drug abuse or dependence, left AMA",DRG,MS-DRG V37 (FY2020) 894,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17127.27311,Variable,Variable
+Alcohol/drug abuse or dependence w/o rehabilitation therapy,DRG,MS-DRG V37 (FY2020) 896,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,62599.09988,Variable,Variable
+Alcohol/drug abuse or dependence w/o rehabilitation therapy,DRG,MS-DRG V37 (FY2020) 897,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26546.05706,Variable,Variable
+Wound debridements for injuries,DRG,MS-DRG V37 (FY2020) 901,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,43902.78638,Variable,Variable
+Wound debridements for injuries,DRG,MS-DRG V37 (FY2020) 902,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,59738.52208,Variable,Variable
+Wound debridements for injuries,DRG,MS-DRG V37 (FY2020) 903,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18183.4974,Variable,Variable
+Skin grafts for injuries,DRG,MS-DRG V37 (FY2020) 904,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,157710.683,Variable,Variable
+Skin grafts for injuries,DRG,MS-DRG V37 (FY2020) 905,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34628.31295,Variable,Variable
+Hand procedures for injuries,DRG,MS-DRG V37 (FY2020) 906,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,22989.48195,Variable,Variable
+Other O.R. procedures for injuries,DRG,MS-DRG V37 (FY2020) 907,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,96011.99202,Variable,Variable
+Other O.R. procedures for injuries,DRG,MS-DRG V37 (FY2020) 908,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,52468.02449,Variable,Variable
+Other O.R. procedures for injuries,DRG,MS-DRG V37 (FY2020) 909,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18103.10997,Variable,Variable
+Traumatic injury,DRG,MS-DRG V37 (FY2020) 913,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26542.5522,Variable,Variable
+Traumatic injury,DRG,MS-DRG V37 (FY2020) 914,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,45881.41581,Variable,Variable
+Allergic reactions,DRG,MS-DRG V37 (FY2020) 915,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,18135.86843,Variable,Variable
+Allergic reactions,DRG,MS-DRG V37 (FY2020) 916,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,17918.72179,Variable,Variable
+Poisoning & toxic effects of drugs,DRG,MS-DRG V37 (FY2020) 917,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,50293.37043,Variable,Variable
+Poisoning & toxic effects of drugs,DRG,MS-DRG V37 (FY2020) 918,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,15421.31103,Variable,Variable
+Complications of treatment,DRG,MS-DRG V37 (FY2020) 919,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,48478.26249,Variable,Variable
+Complications of treatment,DRG,MS-DRG V37 (FY2020) 920,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,31970.45229,Variable,Variable
+Complications of treatment,DRG,MS-DRG V37 (FY2020) 921,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27779.02538,Variable,Variable
+"Other injury, poisoning & toxic effect diag",DRG,MS-DRG V37 (FY2020) 922,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14659.2939,Variable,Variable
+"Other injury, poisoning & toxic effect diag",DRG,MS-DRG V37 (FY2020) 923,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,7787.2905,Variable,Variable
+Full thickness burn w skin graft or inhal inj,DRG,MS-DRG V37 (FY2020) 929,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49355.91682,Variable,Variable
+Full thickness burn w/o skin grft or inhal inj,DRG,MS-DRG V37 (FY2020) 934,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,16672.63925,Variable,Variable
+Non-extensive burns,DRG,MS-DRG V37 (FY2020) 935,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19861.14206,Variable,Variable
+O.R. proc w diagnoses of other contact w health services,DRG,MS-DRG V37 (FY2020) 939,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19155.58182,Variable,Variable
+O.R. proc w diagnoses of other contact w health services,DRG,MS-DRG V37 (FY2020) 940,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,41315.81211,Variable,Variable
+O.R. proc w diagnoses of other contact w health services,DRG,MS-DRG V37 (FY2020) 941,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,42307.83478,Variable,Variable
+Signs & symptoms,DRG,MS-DRG V37 (FY2020) 947,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24631.59057,Variable,Variable
+Signs & symptoms,DRG,MS-DRG V37 (FY2020) 948,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24737.91242,Variable,Variable
+Aftercare,DRG,MS-DRG V37 (FY2020) 949,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24270.82973,Variable,Variable
+Aftercare,DRG,MS-DRG V37 (FY2020) 950,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,14362.9668,Variable,Variable
+Other factors influencing health status,DRG,MS-DRG V37 (FY2020) 951,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,13660.81858,Variable,Variable
+Craniotomy for multiple significant trauma,DRG,MS-DRG V37 (FY2020) 955,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,472713.0519,Variable,Variable
+"Limb reattachment, hip & femur proc for multiple significant trauma",DRG,MS-DRG V37 (FY2020) 956,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,208418.571,Variable,Variable
+Other O.R. procedures for multiple significant trauma,DRG,MS-DRG V37 (FY2020) 957,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,202555.9289,Variable,Variable
+Other O.R. procedures for multiple significant trauma,DRG,MS-DRG V37 (FY2020) 958,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,90304.44581,Variable,Variable
+Other O.R. procedures for multiple significant trauma,DRG,MS-DRG V37 (FY2020) 959,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,27925.28563,Variable,Variable
+Other multiple significant trauma,DRG,MS-DRG V37 (FY2020) 963,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,97548.40548,Variable,Variable
+Other multiple significant trauma,DRG,MS-DRG V37 (FY2020) 964,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,80521.69016,Variable,Variable
+Other multiple significant trauma,DRG,MS-DRG V37 (FY2020) 965,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,32826.94592,Variable,Variable
+HIV w extensive O.R. procedure,DRG,MS-DRG V37 (FY2020) 969,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,274741.3729,Variable,Variable
+HIV w extensive O.R. procedure,DRG,MS-DRG V37 (FY2020) 970,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,61175.90194,Variable,Variable
+HIV w major related condition,DRG,MS-DRG V37 (FY2020) 974,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,85325.0364,Variable,Variable
+HIV w major related condition,DRG,MS-DRG V37 (FY2020) 975,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,34070.8002,Variable,Variable
+HIV w major related condition,DRG,MS-DRG V37 (FY2020) 976,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,24761.56443,Variable,Variable
+HIV w or w/o other related condition,DRG,MS-DRG V37 (FY2020) 977,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,56589.53987,Variable,Variable
+Extensive O.R. procedure unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 981,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,198097.119,Variable,Variable
+Extensive O.R. procedure unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 982,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,74500.13006,Variable,Variable
+Extensive O.R. procedure unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 983,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,49279.2741,Variable,Variable
+Non-extensive O.R. proc unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 987,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,173853.5699,Variable,Variable
+Non-extensive O.R. proc unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 988,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,57430.04886,Variable,Variable
+Non-extensive O.R. proc unrelated to principal diagnosis,DRG,MS-DRG V37 (FY2020) 989,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,19950.96089,Variable,Variable
+Principal diagnosis invalid as discharge diagnosis,DRG,MS-DRG V37 (FY2020) 998,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,26492.65629,Variable,Variable
+Ungroupable,DRG,MS-DRG V37 (FY2020) 999,,NA,,,Variable,Variable,Variable,Variable,Variable,Variable,90304.44581,Variable,Variable
