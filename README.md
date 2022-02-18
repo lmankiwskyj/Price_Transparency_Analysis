@@ -18,3 +18,9 @@ How do we use and better understand pricing in healthcare and how it relates to 
    - Hospitals in larger metropolitan areas will have higher prices
    
 ### Our analytic approach will be descriptive statistics, a linear regression, clustering, and decision trees.  We will remain flexible and see where the data takes us.
+
+![image](https://user-images.githubusercontent.com/90878901/154609988-b2765087-327c-46e4-94ab-a54a24c043b4.png)
+
+![image](https://user-images.githubusercontent.com/90878901/154609998-0acbf984-8d91-4703-a461-3047a78f17aa.png)
+
+![image](https://user-images.githubusercontent.com/90878901/154610020-780bf6db-b0c0-48ec-ace0-d218506b0b8d.png)
