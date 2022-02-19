@@ -19,6 +19,15 @@ How do we use and better understand pricing in healthcare and how it relates to 
    
 ### Our analytic approach will be descriptive statistics, a linear regression, clustering, and decision trees.  We will remain flexible and see where the data takes us.
 
+#### Beginning Statistics from Combined File.
+
+![image](https://user-images.githubusercontent.com/90878901/154805050-c2fb5b7a-0704-4099-bc09-8c7a2a5dbeff.png)
+
+![image](https://user-images.githubusercontent.com/90878901/154805069-d5339e7a-5a9d-41f4-86d4-611705fb937b.png)
+
+
+#### Sample Mapping
+
 ![image](https://user-images.githubusercontent.com/90878901/154609988-b2765087-327c-46e4-94ab-a54a24c043b4.png)
 
 ![image](https://user-images.githubusercontent.com/90878901/154609998-0acbf984-8d91-4703-a461-3047a78f17aa.png)
