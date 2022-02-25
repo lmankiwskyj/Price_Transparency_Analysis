@@ -21,9 +21,25 @@ How do we use and better understand pricing in healthcare and how it relates to 
 
 #### Beginning Statistics from Combined File.
 
-![image](https://user-images.githubusercontent.com/90878901/154805050-c2fb5b7a-0704-4099-bc09-8c7a2a5dbeff.png)
+Group by payer
 
-![image](https://user-images.githubusercontent.com/90878901/154805069-d5339e7a-5a9d-41f4-86d4-611705fb937b.png)
+![image](https://user-images.githubusercontent.com/90878901/155637816-59822b87-4be5-4830-9fa3-f3bda1b7eea2.png)
+
+Group by DRG
+
+![image](https://user-images.githubusercontent.com/90878901/155637857-711318e4-e9b4-411b-ba87-f6fddd4cb965.png)
+
+Overall summary
+
+![image](https://user-images.githubusercontent.com/90878901/155637890-a0645730-2d8c-46a0-af31-d0945be9ebcb.png)
+
+Row count
+
+![image](https://user-images.githubusercontent.com/90878901/155637925-b1df437c-7f43-407d-a3a0-6c89d6862b4c.png)
+
+DRG file 
+
+![image](https://user-images.githubusercontent.com/90878901/155638164-a48eeeaf-8832-49f4-88c1-7a550e0ca65a.png)
 
 
 #### Sample Mapping
