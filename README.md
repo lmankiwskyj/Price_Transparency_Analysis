@@ -41,6 +41,9 @@ DRG file
 
 ![image](https://user-images.githubusercontent.com/90878901/155638164-a48eeeaf-8832-49f4-88c1-7a550e0ca65a.png)
 
+### Clustering by Payor
+![Scatter_plot_Capture](https://user-images.githubusercontent.com/90974647/155854783-b309e81f-bb85-4e4c-9d12-1615d05b198e.PNG)
+
 
 #### Sample Mapping
 
