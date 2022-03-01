@@ -44,6 +44,16 @@ DRG file
 ### Clustering by Payor
 ![Scatter_plot_Capture](https://user-images.githubusercontent.com/90974647/155854783-b309e81f-bb85-4e4c-9d12-1615d05b198e.PNG)
 
+Elbow Curve
+
+![image](https://user-images.githubusercontent.com/90878901/156100543-32e47d98-3d5b-44e2-8e44-651ddac3e1f7.png)
+
+
+Machine Learning
+
+![image](https://user-images.githubusercontent.com/90878901/156100598-5d89bd9a-f427-407a-b336-9905fc8e613a.png)
+
+
 
 #### Sample Mapping
 
