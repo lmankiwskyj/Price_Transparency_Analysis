@@ -4,6 +4,7 @@
 
 ### Hospital Price Transparency for top 20 US News and World Report (USNWR) Hospitals
 How do we use and better understand pricing in healthcare and how it relates to quality?  Current federal price transparency requirements for US hospitals does not require reporting on quality alongside price.  It is assumed that transparency regarding healthcare cost and quality will provide consumers with the necessary information to make more informed decisions.  Advocates of price transparency argue that it will lower consumer health costs by increasing competition among providers and giving patients the option of “shopping” for the best price.  As of January 1, 2021, each hospital operating in the United States was required to provide clear, accessible pricing information online about the items and services they provide.
+
 #### Project hypothesizes:  
    - There will be a large difference between pricing among hospitals
    - Higher quality will have a higher price
