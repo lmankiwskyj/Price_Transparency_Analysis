@@ -97,5 +97,8 @@ There was mixed compliance with the federal rule requiring hospitals to publiciz
 
 Price transparency has a way to go, to be of value to individual consumers.  Perhaps the most valuable result of these transparency regulations will be the availability of data to health policy researchers, who can use it to develop more powerful strategies to contain US health care costs.  More to come on this as insurance companies are expected to release their pricing information in July of 2022.
 
---->insert here:  Recommendation for future analysis or Anything the team would have done differently 
+Recommendations for future analysis. This analysis was limited to DRGs, which limits the amount of data available. A future analysis could include pharmacy and hospital chargemaster from the machine readable files. These charges are very important in the industry. There could be an expansion of hospitals, especially hospitals in low per capita and low owner occupied median housing value. In this type of analysis a comparison of hospital median charges could be compared between high and low per capita. With a larger data set we could apply additional machine learning. Centers for Medicare and Medicaid are requiring insurance companies to post their files similar to hospitals. This information could be used to quality compare the hospital posted machine files. 
+
+Changes that we could have made would have been reducing the data set further and expanding the quality metrics beyond the data found from US News and creation of our own quality score to judge the hospitals. We could expand our data and use both US News and World report as well as detail statistics from Newsweek. 
+ 
 
