@@ -62,11 +62,35 @@ Changing our focus to one subspecialty (cardiology) and using Pearson’s coeffi
 ## Results
 The Pearson coefficient values did not show any strong correlations between price (charge amount) and the different quality rankings.  
 
-#### Visualization with Tableau 
+### Visualization with Tableau 
 --->Insert link to dashboard
-![image](https://user-images.githubusercontent.com/90878901/154609988-b2765087-327c-46e4-94ab-a54a24c043b4.png)
-![image](https://user-images.githubusercontent.com/90878901/154609998-0acbf984-8d91-4703-a461-3047a78f17aa.png)
-![image](https://user-images.githubusercontent.com/90878901/154610020-780bf6db-b0c0-48ec-ace0-d218506b0b8d.png)
+
+Northeastern Hospital Map - Per Capita
+
+![image](https://user-images.githubusercontent.com/90878901/156901802-c8265a45-d5d0-4377-9dc8-815c1f05b9b8.png)
+
+Northeastern Hospital Map - Owner Occupied Housing Value
+
+![image](https://user-images.githubusercontent.com/90878901/156901946-3a029610-abcd-476b-8a92-a8b281e0c8e8.png)
+
+Midwest Hospital Map - Per Capita
+
+![image](https://user-images.githubusercontent.com/90878901/156901859-3efcb2fc-40ab-42e8-a270-2b5742ee4b79.png)
+
+Midwest Hospital Map - Owner Occupied Housing Value
+
+![image](https://user-images.githubusercontent.com/90878901/156902197-cc9df390-5502-4b01-a92b-8bd54e2bfb53.png)
+
+Western Hospital Map - Per Capita
+
+![image](https://user-images.githubusercontent.com/90878901/156901874-dd678479-fd52-4c87-893d-558c97e1a726.png)
+
+Western Hospital Map - Owner Occupied Housing Value
+
+![image](https://user-images.githubusercontent.com/90878901/156902184-6b7b0c09-1c16-440d-a512-e30638852838.png)
+
+### Hospital Location Results
+The Top 20 US News and World Report Hospitals reside in the counties, with the highest 2018 per capita income. Additionally those hospitals reside in the highest owner occupied median housing value.
 
 ## Conclusion   
 There was mixed compliance with the federal rule requiring hospitals to publicize their negotiated prices with all contracted insurers, many hospitals reporting information that was incomplete, and difficult to find or interpret. There was widespread variation in prices across services, payer, and hospitals and no apparent correlation between quality rankings and price.  Mayo Clinic, the #1 rated hospital, was notably lower in their published prices.  There is a correlation between metropolitan areas and pricing, as the highest average prices were found in large metropolitan cities.
