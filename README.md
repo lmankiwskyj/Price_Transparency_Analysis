@@ -12,7 +12,8 @@ How do we use and better understand pricing in healthcare and how it relates to 
    - Payers will have different contract rates
    - There will be price variation among payers in diagnostic related group (DRG) reimbursements
    - Hospitals in larger metropolitan areas will have higher prices
-The data source used will be the published price transparency files from each hospital website for the top 20 ranked USNWR hospitals, including DRGs, payers, and USNWR quality ranking.  Our focus wis limited to payers:  Blue Cross Blues Shield, United Health Care, Cigna, Health Partners, and Aetna.  The file types collected were csv, text, and Json and all needed substantial reformatting and cleaning for our analysis.
+
+The data source is the published price transparency files from each hospital website for the top 20 ranked USNWR hospitals, including DRGs, payers, and USNWR quality ranking.  Our focus is limited to the payers:  Blue Cross Blues Shield, United Health Care, Cigna, Health Partners, and Aetna.  The file types collected were csv, text, and Json and all needed substantial reformatting and cleaning for our analysis.
 
 ## Methods
 Cleaning and compiling methods included:
