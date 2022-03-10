@@ -24,6 +24,16 @@ Cleaning and compiling methods included:
 -	Alteryx 
  ![MicrosoftTeams-image](https://user-images.githubusercontent.com/90974647/156897202-9d0fc478-2de4-4d0a-9b16-5aec67e7bc2c.png)
  
+ - Sources of the data
+ In addition to:
+US News and World Report-  Best Hospitals:  https://health.usnews.com/best-hospitals
+Newsweek- Worlds Best Hospitals:  https://www.newsweek.com/worlds-best-hospitals-2022-1639030
+Centers for Medicare and Medicaid Services: https://www.cms.gov/hospital-price-transparency
+ Hospital web sites were viewed:
+
+![image](https://user-images.githubusercontent.com/90878901/157573263-c938ffc6-b745-4e86-a3f5-30a5b8083001.png)
+
+ 
 #### Beginning Statistics from Combined File
 Group by payer
 
@@ -64,7 +74,20 @@ Changing our focus to one subspecialty (cardiology) and using Pearson’s coeffi
 The Pearson coefficient values did not show any strong correlations between price (charge amount) and the different quality rankings.  
 
 ### Visualization with Tableau 
---->Insert link to dashboard
+The Tableau Public Project can be seen viewed here: 
+https://public.tableau.com/app/profile/andrew.lewis1601/viz/PriceTransparency_16466200858770/PriceTransparencyAnalysis
+To review the data, multiple vizualizations were created. 
+A Box whisker for searching the DRG by Specialty and hospital
+
+![image](https://user-images.githubusercontent.com/90878901/157572336-06b35930-50c0-455a-8592-381bd2bc628c.png)
+
+A visualization that can search by hospital and payor for the distribution of plans by specialty.
+
+![image](https://user-images.githubusercontent.com/90878901/157572722-4ee673b3-7482-4c8e-93f0-c877def5c868.png)
+
+A DRG detail for each specialty. 
+
+![image](https://user-images.githubusercontent.com/90878901/157572799-b9809001-d02c-4b59-961f-e7bbe536376f.png)
 
 Northeastern Hospital Map - Per Capita
 
