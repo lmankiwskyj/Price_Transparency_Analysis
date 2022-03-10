@@ -15,6 +15,10 @@ How do we use and better understand pricing in healthcare and how it relates to 
 
 The data source is the published price transparency files from each hospital website for the top 20 ranked USNWR hospitals, including DRGs, payers, and USNWR quality ranking.  Our focus is limited to the payers:  Blue Cross Blues Shield, United Health Care, Cigna, Health Partners, and Aetna.  The file types collected were csv, text, and Json and all needed substantial reformatting and cleaning for our analysis.
 
+### Project Timeline
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/90974647/157679963-40c74f3f-6807-47a4-96aa-1fc1993e08d8.png)
+
 ## Methods
 Cleaning and compiling methods included:
 -	Python
